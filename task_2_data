@@ -12,7 +12,7 @@
 10,555,Urban,23,Female,7,Separated,22580.7,9.341631685,9,0,2,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Mailed Check,19.26726194,174.958118,2728.767869,4,4,4,7,3,3,3,4,No
 11,33372,Rural,56,Female,2,Married,18342.12,6.68082638,17,1,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,No,Electronic Check,10.52199781,149.962093,1180.588788,4,4,3,4,4,4,3,4,No
 12,556,Rural,83,Male,0,Divorced,83671.08,8.273875452,9,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Bank Transfer(automatic),13.01149229,137.439154,1196.388018,1,2,1,4,3,2,3,3,No
-13,0,Urban,29,Female,5,Separated,115114.57,5.880565591,14,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Bank Transfer(automatic),16.87922024,184.971516,1948.694497,5,6,5,2,4,5,4,4,No
+13,9542,Urban,29,Female,5,Separated,115114.57,5.880565591,14,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Bank Transfer(automatic),16.87922024,184.971516,1948.694497,5,6,5,2,4,5,4,4,No
 14,8165,Urban,30,Male,1,Separated,64256.81,11.79073041,10,3,0,No,Month-to-month,No,No,DSL,No,Yes,No,Yes,No,Yes,No,No,Yes,Bank Transfer(automatic),10.06019902,159.965581,1582.295235,3,3,4,2,3,4,4,2,Yes
 15,2093,Suburban,39,Male,3,Divorced,89061.45,10.79846973,13,1,0,No,One year,No,No,None,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Electronic Check,13.87001293,177.65076,1840.014467,3,3,3,2,4,3,5,2,Yes
 16,50079,Urban,63,Female,0,Married,31659.3,13.52284721,13,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Bank Transfer(automatic),15.78214958,194.966286,2070.376729,3,4,4,3,5,4,4,3,Yes
@@ -421,19 +421,19 @@
 419,5364,Urban,84,Female,2,Separated,60476.86,8.763218085,9,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Yes,Electronic Check,6.325942162,169.937833,717.6823944,2,3,3,2,4,4,3,3,No
 420,3424,Rural,65,Male,1,Never Married,26875.13,12.72077056,10,3,0,Yes,One year,No,No,DSL,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Electronic Check,17.22220989,152.457857,2223.835601,4,3,3,5,2,5,3,5,No
 421,19527,Urban,29,Female,2,Separated,24447.03,5.304635517,13,0,0,No,One year,Yes,No,DSL,Yes,No,No,Yes,Yes,No,No,Yes,No,Bank Transfer(automatic),3.238699239,162.460772,1143.685617,3,3,2,4,2,4,5,4,No
-422,0,Urban,51,Female,2,Married,14817.22,11.18732698,16,0,0,Yes,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Electronic Check,6.437878909,200.132293,1537.296207,4,5,5,3,4,4,4,2,Yes
+422,9542,Urban,51,Female,2,Married,14817.22,11.18732698,16,0,0,Yes,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Electronic Check,6.437878909,200.132293,1537.296207,4,5,5,3,4,4,4,2,Yes
 423,7699,Urban,40,Female,0,Married,6170.55,11.6443975,13,0,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,No,Bank Transfer(automatic),15.22323989,182.460772,1614.544362,4,4,4,4,4,3,3,3,Yes
 424,1126,Urban,49,Female,2,Widowed,33620.38,9.83612847,8,0,1,No,One year,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,No,No,Yes,Credit Card (automatic),7.484425045,124.97808,758.8338668,5,5,5,5,2,6,5,3,No
 425,584,Rural,61,Female,7,Separated,86453.08,9.202197695,20,1,0,No,Month-to-month,Yes,No,Fiber Optic,No,No,No,Yes,No,No,Yes,Yes,No,Bank Transfer(automatic),7.218752772,230.105118,1317.766231,3,2,4,5,2,3,3,4,Yes
 426,35100,Suburban,61,Female,3,Divorced,31466.9,6.187489206,7,6,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,No,No,No,No,Mailed Check,11.69875604,147.473844,1189.578203,3,3,4,3,4,3,4,3,No
 427,17872,Urban,85,Female,1,Widowed,76984.15,9.320914781,12,1,0,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,Yes,No,No,Yes,No,Bank Transfer(automatic),10.03363969,142.482694,1467.273158,5,4,3,3,4,3,3,3,No
-428,0,Suburban,25,Female,8,Never Married,43586.8,6.697226378,16,1,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Electronic Check,18.46162568,152.479779,2192.693797,3,3,3,4,4,6,4,3,No
+428,9993,Suburban,25,Female,8,Never Married,43586.8,6.697226378,16,1,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Electronic Check,18.46162568,152.479779,2192.693797,3,3,3,4,4,6,4,3,No
 429,1003,Suburban,48,Female,4,Separated,13148.09,16.41445271,13,1,0,No,Month-to-month,Yes,No,None,Yes,No,No,No,Yes,Yes,No,No,Yes,Credit Card (automatic),16.52138638,105.010962,1568.47416,4,4,4,5,2,4,4,4,No
 430,169,Suburban,86,Male,4,Widowed,11612.88,4.964218639,11,2,1,No,Month-to-month,No,No,None,Yes,No,No,No,No,No,No,Yes,Yes,Credit Card (automatic),13.83290937,114.965789,1376.095043,1,1,2,4,3,1,4,3,No
 431,1088,Suburban,53,Female,0,Never Married,71215.87,6.702458265,13,0,1,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Mailed Check,5.02568958,184.978458,811.5600648,3,4,5,3,3,3,4,3,Yes
 432,41863,Rural,88,Female,2,Never Married,18113.33,8.623296005,18,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,No,No,No,Mailed Check,2.644787483,134.950905,243.2617759,4,4,3,4,5,3,3,3,No
 433,2101,Urban,40,Female,1,Widowed,18895.18,4.874661522,17,0,0,No,Month-to-month,No,Yes,None,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Electronic Check,2.522962069,182.490006,676.6465414,3,3,4,3,3,3,3,5,Yes
-434,0,Urban,23,Male,1,Divorced,48852.54,4.924368526,11,1,0,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),3.508974199,192.470522,801.4709595,4,4,4,3,3,5,4,4,Yes
+434,9542,Urban,23,Male,1,Divorced,48852.54,4.924368526,11,1,0,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),3.508974199,192.470522,801.4709595,4,4,4,3,3,5,4,4,Yes
 435,6349,Urban,63,Male,3,Married,6574.36,9.173811061,11,1,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,No,Electronic Check,11.50651216,149.962093,1316.145864,3,3,4,5,4,3,4,4,Yes
 436,40305,Urban,28,Male,2,Widowed,10342.14,9.553427818,8,1,1,No,One year,Yes,Yes,None,Yes,No,Yes,No,Yes,No,No,No,Yes,Mailed Check,10.96319721,95.019486,1270.217581,5,4,3,3,5,4,2,3,No
 437,1691,Rural,26,Female,1,Separated,23028.48,6.007630739,16,0,1,No,Two Year,Yes,No,None,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Credit Card (automatic),5.505247606,245.174977,1339.709597,3,3,4,4,5,3,3,5,Yes
@@ -445,7 +445,7 @@
 443,30781,Rural,61,Female,4,Widowed,72129.01,10.4523599,15,1,2,No,Month-to-month,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card (automatic),7.262579715,267.642733,1803.917571,4,4,4,4,3,3,4,5,Yes
 444,4734,Suburban,73,Female,1,Widowed,16368.02,10.07963518,14,0,0,No,Month-to-month,No,Yes,None,Yes,No,Yes,Yes,No,No,No,No,No,Bank Transfer(automatic),17.06899012,104.992311,1518.747945,5,5,5,4,2,5,5,5,No
 445,56959,Rural,27,Male,2,Divorced,59147.78,5.763454353,11,0,0,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Electronic Check,10.8600084,164.978458,1932.20577,2,1,2,3,4,3,3,3,Yes
-446,0,Urban,56,Female,1,Widowed,65900.37,9.086330232,8,1,2,No,One year,No,No,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes,No,Electronic Check,16.48065356,240.114868,1886.312286,4,4,4,5,5,5,5,4,Yes
+446,9542,Urban,56,Female,1,Widowed,65900.37,9.086330232,8,1,2,No,One year,No,No,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes,No,Electronic Check,16.48065356,240.114868,1886.312286,4,4,4,5,5,5,5,4,Yes
 447,8800,Rural,19,Male,6,Divorced,69369.36,10.04912841,12,3,0,No,Two Year,No,No,DSL,Yes,Yes,No,No,No,No,No,No,Yes,Mailed Check,10.85041661,124.960655,1738.71901,3,4,2,2,4,3,4,3,No
 448,3873,Suburban,56,Male,1,Never Married,23382.74,8.431329813,12,2,0,No,Month-to-month,No,No,DSL,Yes,No,No,No,No,No,No,Yes,Yes,Bank Transfer(automatic),4.85576672,127.442069,1060.026737,3,3,3,4,4,4,5,4,Yes
 449,417,Urban,83,Female,2,Widowed,25886.2,8.961461799,15,1,0,No,Month-to-month,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,No,Yes,Electronic Check,1.715329149,169.992756,250.9270047,3,3,2,4,3,3,1,3,No
@@ -681,7 +681,7 @@
 679,5955,Suburban,27,Male,0,Married,37415.85,8.319615273,14,0,0,Yes,One year,No,No,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Credit Card (automatic),19.50833872,112.455141,1751.748167,2,4,1,3,3,1,2,2,No
 680,846,Rural,76,Female,1,Never Married,114609.0,8.14229928,9,1,1,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,No,No,No,No,No,Electronic Check,7.320050181,92.455141,954.4058631,5,4,5,3,4,3,3,2,No
 681,6911,Suburban,56,Male,1,Married,90059.86,8.862064813,10,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Yes,Mailed Check,8.886453729,127.442069,1390.292533,3,2,3,3,3,3,4,3,Yes
-682,0,Urban,42,Male,2,Separated,25670.71,13.9772991,12,3,1,No,Month-to-month,No,Yes,DSL,Yes,No,No,No,Yes,No,Yes,No,No,Bank Transfer(automatic),17.80378998,129.962093,2283.692222,3,4,3,3,4,4,4,4,No
+682,9542,Urban,42,Male,2,Separated,25670.71,13.9772991,12,3,1,No,Month-to-month,No,Yes,DSL,Yes,No,No,No,Yes,No,Yes,No,No,Bank Transfer(automatic),17.80378998,129.962093,2283.692222,3,4,3,3,4,4,4,4,No
 683,26601,Suburban,76,Female,0,Divorced,19288.27,11.97665938,12,1,0,No,Month-to-month,Yes,No,None,Yes,Yes,No,No,No,No,No,No,No,Bank Transfer(automatic),7.847288476,112.484375,625.2785223,2,3,2,3,4,3,3,4,No
 684,145,Rural,42,Male,7,Separated,39087.76,8.361906963,14,0,0,No,One year,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Mailed Check,10.8040205,212.641455,2129.856605,2,3,3,3,3,2,3,2,No
 685,2097,Urban,32,Female,0,Divorced,169580.73,3.625998515,12,0,0,Yes,Month-to-month,No,No,None,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Electronic Check,7.798523158,220.161527,1307.965782,3,2,3,6,4,3,4,2,Yes
@@ -693,7 +693,7 @@
 691,3645,Rural,44,Female,3,Never Married,66365.07,14.34431543,11,0,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Electronic Check,2.72317525,192.48852,586.1493754,2,3,2,1,5,2,2,4,No
 692,192,Suburban,77,Female,0,Divorced,53562.86,8.936042397,11,2,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,No,No,Credit Card (automatic),18.92157073,152.479779,1813.614194,3,3,3,5,3,5,3,4,No
 693,607,Urban,78,Male,4,Married,28937.89,8.950709439,10,1,1,No,Two Year,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Electronic Check,11.90088632,154.961766,1831.930109,4,4,4,3,5,3,2,4,No
-694,0,Urban,20,Female,1,Never Married,62952.13,14.9103207,15,2,1,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,No,Yes,Electronic Check,28.93788212,124.97808,2580.979643,5,6,6,4,2,6,5,5,No
+694,9542,Urban,20,Female,1,Never Married,62952.13,14.9103207,15,2,1,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,No,Yes,Electronic Check,28.93788212,124.97808,2580.979643,5,6,6,4,2,6,5,5,No
 695,3107,Urban,53,Male,2,Never Married,45777.4,12.37429389,11,0,1,No,Month-to-month,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,No,Electronic Check,1.570209934,152.44408,930.6501084,3,3,3,4,4,3,2,5,Yes
 696,457,Suburban,20,Female,1,Separated,6396.98,5.896054877,11,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Bank Transfer(automatic),10.85959186,232.641455,1561.283799,5,4,4,3,3,5,5,4,Yes
 697,6432,Suburban,82,Female,6,Never Married,26785.51,15.04983927,10,0,3,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Mailed Check,1.338441957,182.465269,491.8773506,5,4,6,3,3,5,4,3,Yes
@@ -718,7 +718,7 @@
 716,25266,Rural,87,Male,2,Divorced,84826.6,7.612812481,12,0,0,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Credit Card (automatic),16.75922789,275.133571,2064.474901,3,2,4,3,2,4,4,4,Yes
 717,3014,Urban,73,Male,0,Widowed,42305.68,7.167928889,14,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,Yes,No,No,No,No,Yes,Mailed Check,13.85187885,147.456419,1716.888034,5,5,4,2,4,3,4,2,Yes
 718,736,Rural,76,Female,2,Separated,18301.98,14.32600086,11,1,1,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Electronic Check,9.472450618,204.949594,1114.13669,3,3,3,5,2,4,4,5,Yes
-719,0,Suburban,80,Male,1,Widowed,46647.99,14.28125681,11,2,1,No,Month-to-month,No,No,None,Yes,No,No,No,No,Yes,No,Yes,Yes,Mailed Check,6.636312277,127.474951,718.0624099,5,4,5,4,4,3,5,4,No
+719,9993,Suburban,80,Male,1,Widowed,46647.99,14.28125681,11,2,1,No,Month-to-month,No,No,None,Yes,No,No,No,No,Yes,No,Yes,Yes,Mailed Check,6.636312277,127.474951,718.0624099,5,4,5,4,4,3,5,4,No
 720,1257,Rural,89,Female,0,Never Married,28330.55,10.86134286,14,3,0,Yes,One year,No,Yes,DSL,Yes,No,No,No,Yes,No,Yes,No,No,Bank Transfer(automatic),2.904448825,129.962093,800.1531959,3,4,4,2,6,3,4,2,No
 721,481,Urban,43,Male,6,Never Married,11661.07,6.858268186,16,1,2,No,One year,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Mailed Check,4.800346852,242.610632,1680.337106,5,5,3,4,2,3,4,4,Yes
 722,5360,Rural,50,Female,0,Divorced,82226.63,7.530481623,17,1,1,No,One year,No,No,DSL,Yes,No,No,No,No,No,No,Yes,No,Electronic Check,10.35063785,127.442069,1416.865765,2,3,4,3,5,1,3,3,No
@@ -813,7 +813,7 @@
 811,26607,Rural,45,Nonbinary,1,Never Married,33809.72,3.908365171,13,1,1,No,Month-to-month,No,Yes,None,Yes,No,No,Yes,No,No,Yes,No,Yes,Electronic Check,29.10639477,127.458638,2678.418264,3,3,4,5,2,5,4,4,No
 812,895,Urban,39,Female,1,Never Married,98173.49,6.483393995,15,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Bank Transfer(automatic),5.786960464,207.609354,993.8801154,5,3,5,4,4,4,5,6,Yes
 813,116,Suburban,52,Male,0,Never Married,6990.37,5.729464009,15,1,2,No,Month-to-month,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No,No,Mailed Check,19.70266217,117.468591,2268.392356,4,5,3,4,3,5,4,5,Yes
-814,0,Suburban,42,Male,2,Married,29345.58,7.450205641,14,0,0,Yes,Month-to-month,Yes,No,None,Yes,No,Yes,No,No,Yes,No,No,No,Credit Card (automatic),4.455386749,95.005709,610.2580075,3,3,4,3,2,4,4,2,No
+814,9993,Suburban,42,Male,2,Married,29345.58,7.450205641,14,0,0,Yes,Month-to-month,Yes,No,None,Yes,No,Yes,No,No,Yes,No,No,No,Credit Card (automatic),4.455386749,95.005709,610.2580075,3,3,4,3,2,4,4,2,No
 815,27073,Urban,29,Female,0,Widowed,21616.35,14.37269379,14,2,0,No,One year,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Electronic Check,9.44860885,217.470195,1243.779967,5,3,4,1,6,3,3,2,No
 816,1815,Suburban,52,Female,1,Separated,29736.31,3.461555254,7,0,1,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Credit Card (automatic),4.986528165,245.146969,1460.586413,5,4,4,3,5,3,4,4,Yes
 817,28558,Suburban,80,Female,2,Separated,10670.46,10.13650144,7,0,0,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Credit Card (automatic),12.00858052,177.48762,1774.586726,4,3,4,4,2,3,4,4,No
@@ -838,7 +838,7 @@
 836,61509,Urban,56,Female,0,Widowed,20070.17,6.486151578,11,1,1,No,Month-to-month,No,Yes,DSL,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Mailed Check,15.74763468,142.452604,2044.73861,3,4,4,4,3,3,3,3,No
 837,35349,Rural,19,Female,10,Separated,23299.98,10.09307939,16,1,1,No,Month-to-month,Yes,Yes,None,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Electronic Check,23.956929,129.994975,2653.32821,3,3,3,4,2,4,5,2,No
 838,1028,Suburban,24,Female,2,Divorced,34292.78,16.16759956,9,2,0,No,Month-to-month,No,No,None,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Bank Transfer(automatic),9.073819276,139.979239,1214.758985,2,4,2,3,2,4,2,3,No
-839,0,Rural,57,Female,3,Widowed,37119.33,5.64473528,11,0,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Mailed Check,4.310152224,157.483594,575.2472429,4,5,4,3,4,3,3,4,No
+839,9732,Rural,57,Female,3,Widowed,37119.33,5.64473528,11,0,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Mailed Check,4.310152224,157.483594,575.2472429,4,5,4,3,4,3,3,4,No
 840,92,Rural,65,Female,0,Divorced,28056.39,7.637291768,12,2,0,No,Month-to-month,No,No,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Mailed Check,19.76529476,200.118516,2441.022927,4,4,3,5,4,3,3,4,Yes
 841,1029,Rural,43,Nonbinary,1,Widowed,6169.09,7.335113752,14,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Yes,Electronic Check,17.71637154,149.959755,1732.013844,4,4,4,4,4,4,3,3,No
 842,5622,Urban,70,Female,4,Married,14219.58,11.16404955,12,0,1,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Mailed Check,17.37839741,182.460772,1815.9129,3,3,3,3,5,3,4,2,Yes
@@ -903,7 +903,7 @@
 901,5467,Urban,34,Nonbinary,1,Separated,18762.01,12.017333,14,0,1,No,Month-to-month,Yes,No,None,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Mailed Check,5.261212465,212.655686,1101.650764,4,3,4,6,4,4,4,6,Yes
 902,2205,Urban,77,Female,3,Separated,70372.16,10.51532824,12,0,0,No,Two Year,No,No,None,Yes,No,No,No,No,No,Yes,No,Yes,Electronic Check,15.806584,104.962874,1490.383762,4,4,5,3,3,5,6,4,No
 903,9663,Suburban,27,Female,1,Widowed,6424.15,6.056073185,8,3,1,No,One year,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No,Yes,Electronic Check,13.17849974,147.478341,1328.747604,3,4,4,5,3,5,3,2,No
-904,0,Suburban,48,Male,0,Separated,67012.93,5.900461334,9,1,1,No,Month-to-month,No,No,None,Yes,Yes,No,Yes,No,No,No,No,No,Bank Transfer(automatic),11.58317216,134.980139,1199.466728,2,2,2,4,5,3,2,2,No
+904,9993,Suburban,48,Male,0,Separated,67012.93,5.900461334,9,1,1,No,Month-to-month,No,No,None,Yes,Yes,No,Yes,No,No,No,No,No,Bank Transfer(automatic),11.58317216,134.980139,1199.466728,2,2,2,4,5,3,2,2,No
 905,215,Rural,67,Female,2,Married,34090.24,4.455529019,8,0,1,No,Month-to-month,No,No,None,Yes,No,No,No,Yes,No,No,Yes,No,Bank Transfer(automatic),12.05713486,127.488728,1234.176575,3,3,2,4,4,3,4,1,Yes
 906,55652,Suburban,59,Male,0,Widowed,46728.49,10.13094024,11,0,1,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),3.105139512,220.132293,809.979871,4,4,3,4,4,4,4,4,Yes
 907,1436,Urban,42,Male,0,Separated,20841.67,10.02323853,12,2,1,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Credit Card (automatic),9.137809439,184.967019,1196.870152,4,4,4,4,3,4,4,3,No
@@ -965,7 +965,7 @@
 963,678,Suburban,31,Female,2,Divorced,55821.74,3.888998584,12,1,1,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Electronic Check,1.153881327,204.949594,580.0697389,4,4,3,3,5,4,4,2,Yes
 964,22640,Urban,29,Female,3,Separated,88584.08,7.336069408,16,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),18.09905454,147.460067,1738.098524,5,3,4,5,2,5,3,3,No
 965,510,Urban,80,Male,1,Widowed,6274.49,7.98755916,13,0,2,Yes,Month-to-month,Yes,Yes,None,Yes,No,No,No,Yes,Yes,No,Yes,No,Electronic Check,2.625315241,139.99789,474.5558784,3,5,3,5,3,4,3,3,Yes
-966,0,Suburban,23,Male,1,Divorced,7371.1,8.397641269,15,4,1,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,11.20984456,190.12704,2026.429158,4,5,3,3,3,6,5,6,Yes
+966,9993,Suburban,23,Male,1,Divorced,7371.1,8.397641269,15,4,1,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,11.20984456,190.12704,2026.429158,4,5,3,3,3,6,5,6,Yes
 967,5494,Rural,70,Female,1,Married,20377.63,10.72236279,7,1,1,No,One year,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Electronic Check,5.566520625,222.632554,1434.828418,4,4,3,4,2,5,4,3,Yes
 968,649,Urban,41,Male,4,Married,20412.53,9.957228621,17,3,0,Yes,One year,No,Yes,None,Yes,No,Yes,Yes,No,No,No,Yes,No,Credit Card (automatic),2.380500918,139.979239,754.4414431,3,3,4,3,4,4,3,3,No
 969,37464,Suburban,44,Male,1,Widowed,47154.41,11.7318828,12,2,0,No,One year,Yes,No,DSL,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),8.979360083,200.132293,1784.759356,3,2,4,4,3,5,3,4,No
@@ -1090,7 +1090,7 @@
 1088,361,Rural,38,Male,8,Separated,11354.23,9.586595428,18,1,0,No,Two Year,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,Yes,No,Electronic Check,18.73450543,190.12704,2809.296787,3,4,4,3,4,2,3,2,No
 1089,61,Urban,40,Male,0,Divorced,64088.93,10.10186417,10,2,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),6.681362911,202.649979,1653.999552,2,3,4,3,3,4,4,4,Yes
 1090,1938,Rural,51,Male,1,Divorced,25808.98,9.597592484,8,3,0,No,Two Year,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,No,Yes,Credit Card (automatic),5.824620949,149.944668,1228.657511,4,3,3,3,4,3,3,3,No
-1091,0,Rural,71,Male,1,Divorced,40548.91,9.898208583,10,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Electronic Check,18.97328429,182.467607,1912.109481,2,2,2,3,3,2,4,3,Yes
+1091,9732,Rural,71,Male,1,Divorced,40548.91,9.898208583,10,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Electronic Check,18.97328429,182.467607,1912.109481,2,2,2,3,3,2,4,3,Yes
 1092,11100,Rural,76,Female,0,Never Married,96857.54,7.078232973,8,1,0,No,Month-to-month,No,No,Fiber Optic,No,No,No,Yes,No,Yes,No,Yes,No,Bank Transfer(automatic),19.98393473,182.446995,1805.771781,5,3,4,5,4,4,3,3,No
 1093,2377,Rural,25,Male,4,Never Married,27775.18,4.963308626,12,1,0,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Mailed Check,17.41856593,192.470522,2026.989634,4,3,4,3,2,4,6,4,No
 1094,282,Suburban,83,Male,0,Divorced,9843.69,9.646498667,12,2,1,No,Month-to-month,Yes,No,DSL,No,No,No,No,No,Yes,No,Yes,Yes,Electronic Check,6.791270714,139.951231,1103.633086,3,3,4,5,3,4,4,3,Yes
@@ -1163,7 +1163,7 @@
 1161,81,Urban,34,Male,8,Married,18136.36,8.704414121,6,1,0,No,Month-to-month,No,No,DSL,Yes,No,No,No,No,No,No,No,Yes,Bank Transfer(automatic),14.41890198,92.455141,1971.551928,4,3,4,2,5,2,4,3,No
 1162,41000,Rural,20,Female,0,Widowed,99100.1,9.908849616,5,0,0,No,Two Year,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Credit Card (automatic),9.26064585,222.61428,1821.82345,3,4,3,4,5,3,3,4,Yes
 1163,128,Suburban,23,Male,0,Widowed,28987.95,7.553373948,9,2,1,No,Two Year,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Electronic Check,8.634921784,207.49737,1270.22182,4,4,4,3,6,3,2,2,No
-1164,0,Rural,89,Male,0,Never Married,48455.85,10.30256804,8,3,1,No,One year,No,Yes,DSL,Yes,No,No,Yes,No,No,Yes,No,No,Electronic Check,26.16514147,139.934918,2761.982244,4,3,4,3,5,3,1,4,No
+1164,9732,Rural,89,Male,0,Never Married,48455.85,10.30256804,8,3,1,No,One year,No,Yes,DSL,Yes,No,No,Yes,No,No,Yes,No,No,Electronic Check,26.16514147,139.934918,2761.982244,4,3,4,3,5,3,1,4,No
 1165,396,Rural,72,Male,0,Married,4916.91,17.49332639,12,1,2,No,Month-to-month,No,No,None,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Mailed Check,1.068799086,172.487091,504.9814106,3,4,3,4,3,3,3,3,Yes
 1166,3989,Suburban,35,Female,3,Separated,56014.49,7.523463124,14,1,0,No,Month-to-month,No,Yes,None,Yes,No,No,No,No,No,Yes,Yes,No,Mailed Check,17.39605821,175.133074,2019.788427,4,4,4,4,4,3,3,4,Yes
 1167,9718,Urban,89,Male,6,Divorced,90596.15,7.899801255,11,2,1,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Electronic Check,7.245906912,159.987503,879.9008247,2,4,2,4,4,2,3,1,No
@@ -1374,7 +1374,7 @@
 1372,312,Rural,57,Male,2,Married,56342.23,9.899590419,15,2,0,No,Month-to-month,No,No,None,Yes,No,Yes,Yes,No,No,No,No,No,Electronic Check,2.62860278,104.992311,501.0626363,3,2,3,3,3,3,3,3,No
 1373,98,Suburban,32,Male,1,Widowed,57826.31,7.233747171,8,0,0,Yes,Two Year,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Electronic Check,2.045299662,137.439154,495.8370195,4,4,4,4,4,4,3,3,No
 1374,8002,Urban,60,Male,4,Never Married,90889.4,12.04083843,15,1,0,No,Two Year,No,No,None,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),23.05042619,242.657291,2730.054658,5,4,4,3,4,4,4,4,No
-1375,0,Urban,64,Male,4,Separated,36220.07,12.30730362,15,1,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Mailed Check,7.677039536,235.159141,1370.86345,2,1,3,2,3,2,3,5,Yes
+1375,9542,Urban,64,Male,4,Separated,36220.07,12.30730362,15,1,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Mailed Check,7.677039536,235.159141,1370.86345,2,1,3,2,3,2,3,5,Yes
 1376,2621,Rural,48,Male,0,Divorced,47229.76,13.27653911,17,1,1,Yes,Two Year,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No,Yes,Credit Card (automatic),5.427546075,117.468591,1111.834697,3,3,4,4,3,3,3,4,No
 1377,28633,Urban,40,Male,4,Divorced,22390.15,9.873985217,9,2,1,No,Two Year,Yes,Yes,None,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Electronic Check,14.05740045,190.159922,1887.197833,5,5,6,4,3,4,3,4,Yes
 1378,18065,Suburban,67,Female,1,Separated,65392.96,9.948525069,9,0,3,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,No,No,Mailed Check,5.791194183,159.987503,596.625449,2,4,4,3,4,3,3,3,Yes
@@ -1421,7 +1421,7 @@
 1419,819,Urban,36,Nonbinary,2,Separated,57322.77,16.89111923,10,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,No,No,Electronic Check,8.085917091,192.440432,1088.288955,2,2,3,4,3,4,3,5,Yes
 1420,9045,Rural,55,Male,1,Never Married,7682.28,8.462349988,14,2,0,No,One year,No,Yes,None,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Electronic Check,6.086525665,139.99789,840.1259162,3,2,2,4,3,3,4,3,No
 1421,15515,Rural,22,Female,1,Separated,13337.97,10.99334684,15,1,1,No,One year,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Credit Card (automatic),3.295993837,217.472533,839.4587853,4,2,3,2,4,5,3,2,No
-1422,0,Urban,56,Male,3,Widowed,66945.1,11.91191765,15,1,0,No,One year,Yes,No,DSL,Yes,No,No,Yes,No,No,Yes,No,Yes,Electronic Check,2.354138635,139.934918,1011.509096,3,2,3,5,2,5,4,5,No
+1422,9542,Urban,56,Male,3,Widowed,66945.1,11.91191765,15,1,0,No,One year,Yes,No,DSL,Yes,No,No,Yes,No,No,Yes,No,Yes,Electronic Check,2.354138635,139.934918,1011.509096,3,2,3,5,2,5,4,5,No
 1423,12162,Urban,89,Female,1,Separated,38227.48,8.849510435,14,1,0,Yes,Month-to-month,Yes,Yes,None,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Electronic Check,5.68109955,139.981577,738.9464573,3,3,3,2,5,2,1,5,Yes
 1424,1594,Suburban,82,Male,1,Divorced,60150.88,8.637279441,11,0,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,No,No,Mailed Check,16.96762986,149.977753,1567.544174,3,3,3,3,4,4,4,2,No
 1425,196,Rural,35,Male,7,Divorced,49128.48,13.3037367,10,2,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Yes,Credit Card (automatic),4.544027018,147.442069,874.5485738,4,4,2,5,2,5,4,5,Yes
@@ -1611,7 +1611,7 @@
 1609,1170,Rural,79,Female,2,Married,20802.1,10.84469394,11,0,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Electronic Check,11.21152941,262.610632,1503.937766,3,4,4,3,2,5,3,5,Yes
 1610,1061,Urban,29,Female,0,Married,18570.48,11.30937212,7,0,0,Yes,One year,No,No,DSL,Yes,Yes,No,No,No,Yes,No,Yes,No,Bank Transfer(automatic),2.294386519,172.456745,901.8793581,3,4,2,3,4,3,4,4,No
 1611,24494,Rural,23,Male,0,Divorced,61106.43,9.39206185,14,3,1,No,Month-to-month,Yes,No,None,Yes,No,No,No,No,No,Yes,No,No,Bank Transfer(automatic),4.448210386,104.962874,691.4493988,3,5,3,2,5,3,6,3,No
-1612,0,Urban,49,Male,2,Divorced,65891.79,5.259228749,10,1,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Bank Transfer(automatic),4.753020774,245.128318,1608.852045,4,4,3,4,3,4,4,3,Yes
+1612,9542,Urban,49,Male,2,Divorced,65891.79,5.259228749,10,1,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Bank Transfer(automatic),4.753020774,245.128318,1608.852045,4,4,3,4,3,4,4,3,Yes
 1613,4595,Urban,45,Male,1,Never Married,59532.0,12.54222267,12,0,0,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Electronic Check,21.20445421,212.622804,2867.22601,5,6,5,5,2,6,5,5,Yes
 1614,21833,Rural,38,Female,2,Never Married,30756.94,5.149963811,13,0,0,Yes,One year,No,No,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Bank Transfer(automatic),9.217596711,184.978458,1265.78479,3,2,2,4,3,4,4,4,No
 1615,1052,Suburban,25,Male,1,Married,63134.48,12.73517485,15,1,1,No,One year,Yes,No,Fiber Optic,No,No,No,No,No,No,Yes,No,Yes,Electronic Check,7.336939062,137.439154,952.3729916,6,6,5,3,3,4,7,5,No
@@ -2025,7 +2025,7 @@
 2023,22187,Rural,20,Female,1,Never Married,28790.92,7.737367,12,2,0,Yes,Two Year,Yes,Yes,None,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Electronic Check,3.943222,139.9816,822.774438,5,5,6,4,4,3,5,3,No
 2024,25445,Suburban,80,Male,3,Separated,44485.5,9.905191,14,0,2,No,Two Year,Yes,No,DSL,Yes,No,No,No,Yes,No,No,No,No,Credit Card (automatic),10.47338,104.9781,1428.669992,3,3,3,4,3,3,3,3,No
 2025,1388,Rural,77,Male,6,Widowed,40939.24,12.07642,13,2,1,No,Two Year,No,Yes,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Electronic Check,4.773251,232.6378,1557.79907,3,4,4,3,4,1,2,3,Yes
-2026,0,Suburban,44,Male,1,Never Married,61142.96,9.643592,15,2,0,No,Month-to-month,No,No,DSL,No,Yes,No,No,Yes,No,No,No,Yes,Credit Card (automatic),4.510318,137.4836,1068.481652,4,4,4,4,5,4,4,2,Yes
+2026,9993,Suburban,44,Male,1,Never Married,61142.96,9.643592,15,2,0,No,Month-to-month,No,No,DSL,No,Yes,No,No,Yes,No,No,No,Yes,Credit Card (automatic),4.510318,137.4836,1068.481652,4,4,4,4,5,4,4,2,Yes
 2027,21556,Rural,73,Female,8,Never Married,72734.86,9.596264,9,0,2,No,One year,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Mailed Check,3.843142,167.4847,1349.319824,4,4,4,3,4,3,4,4,Yes
 2028,1448,Rural,45,Male,1,Separated,74948.35,10.95793,11,2,1,No,One year,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Electronic Check,11.38469,275.1336,1731.015044,4,5,3,3,4,2,4,4,Yes
 2029,30125,Rural,53,Male,1,Married,45693.25,14.54552,11,2,0,No,Month-to-month,No,Yes,DSL,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Mailed Check,7.178731,132.4798,1421.45141,1,2,2,3,5,1,3,4,Yes
@@ -2085,7 +2085,7 @@
 2083,7023,Rural,77,Female,2,Divorced,86877.95,14.83322,14,0,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Electronic Check,2.958575,162.4827,531.0770713,3,4,5,5,1,4,4,5,Yes
 2084,31194,Suburban,36,Male,1,Divorced,45268.54,11.68917,13,2,2,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Bank Transfer(automatic),9.955486,129.9778,1557.295826,4,3,2,2,4,3,2,3,Yes
 2085,1772,Rural,48,Male,1,Widowed,60555.18,13.27431,11,0,1,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Credit Card (automatic),17.08264,149.9447,2160.951234,3,3,3,2,4,3,3,3,Yes
-2086,0,Rural,25,Male,0,Separated,21951.91,7.554437,18,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Mailed Check,12.12823,194.9744,1464.752497,2,2,1,4,4,3,2,2,Yes
+2086,9732,Rural,25,Male,0,Separated,21951.91,7.554437,18,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Mailed Check,12.12823,194.9744,1464.752497,2,2,1,4,4,3,2,2,Yes
 2087,298,Rural,63,Male,3,Married,15468.51,2.017746,15,0,0,No,Month-to-month,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Bank Transfer(automatic),9.832835,152.5104,1583.398883,4,3,3,2,4,3,5,4,No
 2088,17274,Urban,19,Male,1,Divorced,10120.05,4.271704,12,0,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes,No,Electronic Check,3.737401,240.1149,1010.521133,4,3,3,2,3,3,4,5,Yes
 2089,364,Rural,39,Male,0,Married,2715.32,7.706983,18,1,1,No,Two Year,No,No,DSL,Yes,Yes,No,Yes,No,No,No,No,Yes,Electronic Check,4.791566,147.4564,1085.979242,3,3,4,2,2,4,4,3,No
@@ -2154,7 +2154,7 @@
 2152,38787,Suburban,25,Female,1,Divorced,4855.88,17.03765,11,1,1,Yes,One year,No,No,DSL,No,Yes,No,No,No,No,No,No,Yes,Bank Transfer(automatic),4.749684,124.9607,982.9569892,4,3,4,4,3,3,3,4,No
 2153,29015,Rural,40,Female,0,Divorced,30543.93,8.376945,13,3,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,No,No,No,No,No,No,Electronic Check,21.61867,144.9607,1871.706612,4,4,5,3,3,4,4,5,No
 2154,2067,Suburban,30,Female,8,Separated,19284.89,13.3061,11,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Electronic Check,15.51194,222.65,2196.073405,3,2,4,5,2,5,5,3,Yes
-2155,0,Suburban,19,Male,4,Never Married,44107.0,17.14612,12,1,0,No,Two Year,Yes,No,None,Yes,No,Yes,No,No,No,Yes,No,No,Bank Transfer(automatic),1.319201,107.4806,646.5215872,4,3,3,2,4,4,4,5,No
+2155,9993,Suburban,19,Male,4,Never Married,44107.0,17.14612,12,1,0,No,Two Year,Yes,No,None,Yes,No,Yes,No,No,No,Yes,No,No,Bank Transfer(automatic),1.319201,107.4806,646.5215872,4,3,3,2,4,4,4,5,No
 2156,25052,Rural,21,Female,2,Never Married,32849.77,6.618072,12,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Credit Card (automatic),8.66647,160.0013,1094.644005,4,3,3,4,3,5,3,5,No
 2157,2562,Rural,65,Male,0,Married,4795.94,10.61107,8,3,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Electronic Check,2.748652,235.1591,840.6246629,1,2,2,5,4,3,2,3,Yes
 2158,4705,Urban,51,Female,0,Married,44034.11,5.574893,9,1,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes,No,Electronic Check,2.830635,240.1149,753.4677251,2,3,4,5,2,4,3,4,Yes
@@ -2193,7 +2193,7 @@
 2191,24682,Suburban,22,Male,0,Separated,36224.99,10.34418,13,0,0,No,One year,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,No,No,Yes,Credit Card (automatic),7.109947,107.482,1245.2646,4,4,4,3,3,4,4,3,No
 2192,6,Urban,59,Male,1,Widowed,52409.75,10.99266,12,1,2,Yes,Month-to-month,Yes,No,DSL,No,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,17.98438,159.9476,2197.871959,3,4,2,3,5,3,2,3,Yes
 2193,51045,Rural,81,Male,4,Married,42530.46,9.512708,14,5,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),2.918826,212.6415,1263.539898,1,1,2,3,3,3,2,2,Yes
-2194,0,Rural,81,Male,0,Separated,25761.05,10.5339,12,2,0,No,Two Year,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Electronic Check,2.180679,162.4538,805.2602253,3,2,3,3,3,4,4,4,Yes
+2194,9732,Rural,81,Male,0,Separated,25761.05,10.5339,12,2,0,No,Two Year,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Electronic Check,2.180679,162.4538,805.2602253,3,2,3,3,3,4,4,4,Yes
 2195,121,Suburban,26,Female,2,Never Married,61145.59,9.096999,3,1,1,No,One year,No,No,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No,No,Electronic Check,2.201845,167.4564,482.1944216,3,3,2,3,4,3,3,3,No
 2196,18029,Rural,67,Male,1,Separated,91825.37,12.69755,7,2,0,Yes,Two Year,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,No,No,Yes,Electronic Check,4.418468,137.4836,985.5470101,4,3,4,3,4,5,4,4,No
 2197,138,Urban,19,Female,3,Married,44080.0,16.89285,7,1,0,No,Month-to-month,No,Yes,None,Yes,No,No,No,No,Yes,No,Yes,Yes,Electronic Check,4.798977,127.475,746.7953574,3,4,3,1,7,2,2,4,No
@@ -2260,7 +2260,7 @@
 2258,13649,Suburban,33,Male,0,Never Married,6288.9,10.92378,10,0,0,Yes,One year,No,No,None,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Credit Card (automatic),12.51454,129.9926,1398.226038,4,3,4,2,2,4,3,2,No
 2259,2439,Rural,78,Male,1,Divorced,11520.48,15.30999,9,1,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,Yes,No,Yes,Electronic Check,12.85929,169.9447,1303.045672,5,5,4,4,2,4,5,4,Yes
 2260,16659,Urban,64,Male,5,Divorced,16359.9,11.10706,14,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Bank Transfer(automatic),12.72079,137.4392,1388.786045,3,4,2,4,3,3,5,3,No
-2261,0,Rural,62,Female,2,Separated,33860.71,6.320917,18,2,0,Yes,Month-to-month,No,No,None,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Electronic Check,4.066925,129.9926,590.2497674,3,4,3,4,2,5,4,3,Yes
+2261,9732,Rural,62,Female,2,Separated,33860.71,6.320917,18,2,0,Yes,Month-to-month,No,No,None,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Electronic Check,4.066925,129.9926,590.2497674,3,4,3,4,2,5,4,3,Yes
 2262,9489,Rural,26,Female,3,Never Married,41037.45,8.003539,11,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Electronic Check,19.98033,207.6094,2261.0457,2,2,1,6,2,4,4,3,Yes
 2263,7284,Urban,25,Male,1,Never Married,32479.8,12.1254,11,1,0,Yes,Two Year,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,No,No,Bank Transfer(automatic),11.53977,182.4676,1453.840704,4,5,4,4,3,3,3,2,No
 2264,3649,Urban,63,Female,4,Divorced,39653.8,6.966168,17,1,0,No,Two Year,No,No,None,Yes,No,No,No,No,Yes,No,Yes,Yes,Bank Transfer(automatic),4.719731,127.475,626.8266819,7,6,6,2,5,4,3,4,No
@@ -2268,7 +2268,7 @@
 2266,8851,Urban,62,Male,3,Married,17947.55,7.569971,14,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Mailed Check,7.667371,235.1591,1345.843812,3,4,3,4,3,4,5,5,No
 2267,15142,Urban,74,Male,3,Divorced,20698.04,9.71297,19,1,1,No,One year,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Mailed Check,25.32558,277.6513,2914.993204,3,4,3,4,3,2,3,2,No
 2268,21681,Rural,22,Male,3,Divorced,3109.66,18.31879,6,4,0,No,Two Year,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Mailed Check,16.30451,245.1283,2674.664142,3,3,3,3,3,4,2,2,Yes
-2269,0,Urban,26,Male,4,Divorced,16592.25,7.090931,15,2,0,No,Two Year,No,No,DSL,Yes,No,Yes,No,Yes,No,No,Yes,No,Bank Transfer(automatic),7.80313,142.4827,1652.589596,4,2,3,4,4,4,3,5,No
+2269,9542,Urban,26,Male,4,Divorced,16592.25,7.090931,15,2,0,No,Two Year,No,No,DSL,Yes,No,Yes,No,Yes,No,No,Yes,No,Bank Transfer(automatic),7.80313,142.4827,1652.589596,4,2,3,4,4,4,3,5,No
 2270,33,Suburban,86,Male,1,Married,43824.26,9.086285,7,0,0,No,Month-to-month,Yes,No,None,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Bank Transfer(automatic),7.944389,212.6557,1237.129631,3,4,5,3,2,4,4,4,Yes
 2271,4465,Rural,18,Female,0,Separated,81110.33,11.55219,14,1,0,No,Month-to-month,Yes,No,DSL,No,No,No,No,Yes,No,No,Yes,Yes,Mailed Check,2.977062,139.965,1002.753144,4,5,4,4,3,4,5,4,Yes
 2272,39273,Urban,79,Male,2,Widowed,14493.59,13.49337,14,0,0,Yes,Month-to-month,No,No,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic Check,6.403857,235.1372,1588.073926,4,5,4,4,4,4,4,5,Yes
@@ -2426,7 +2426,7 @@
 2424,30922,Suburban,65,Male,2,Never Married,15264.99,9.134223,18,2,2,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,No,No,No,Yes,Yes,Electronic Check,3.664542,127.4421,963.6972905,4,4,4,4,5,4,2,3,Yes
 2425,2681,Suburban,61,Male,2,Divorced,78456.37,9.346821,14,1,0,Yes,One year,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mailed Check,14.10183,237.6549,2353.047822,3,4,3,3,5,3,4,3,Yes
 2426,4998,Urban,87,Male,0,Divorced,26944.14,12.94729,11,0,0,No,One year,Yes,No,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Electronic Check,13.20294,112.4551,1038.379263,5,4,3,3,4,4,2,3,No
-2427,0,Rural,62,Nonbinary,2,Divorced,28435.83,9.41977,7,2,0,No,One year,No,No,DSL,Yes,No,Yes,Yes,No,No,No,Yes,No,Electronic Check,13.12966,152.4555,1832.163914,2,1,2,4,3,2,3,3,No
+2427,9732,Rural,62,Nonbinary,2,Divorced,28435.83,9.41977,7,2,0,No,One year,No,No,DSL,Yes,No,Yes,Yes,No,No,No,Yes,No,Electronic Check,13.12966,152.4555,1832.163914,2,1,2,4,3,2,3,3,No
 2428,58,Urban,89,Female,4,Married,64651.67,7.352338,11,0,0,No,One year,No,No,DSL,Yes,Yes,No,No,No,No,Yes,Yes,No,Bank Transfer(automatic),15.07394,220.1149,2168.702608,5,5,3,4,4,4,5,4,No
 2429,6213,Rural,25,Female,1,Widowed,21196.66,9.520453,11,1,1,No,One year,No,No,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,20.5514,179.9476,2023.901526,4,4,4,4,4,5,4,4,Yes
 2430,3108,Rural,61,Female,7,Separated,41959.76,11.16575,15,1,0,No,One year,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Credit Card (automatic),1.704751,172.4567,964.1421939,4,3,4,4,3,4,5,5,Yes
@@ -2711,7 +2711,7 @@
 2709,692,Suburban,66,Female,0,Married,66284.45,10.44775,14,0,1,No,Two Year,Yes,No,None,Yes,No,No,No,Yes,Yes,No,No,Yes,Bank Transfer(automatic),1.500082,105.011,155.5067148,4,4,4,4,4,4,2,2,No
 2710,7186,Rural,38,Female,3,Separated,68024.79,6.654657,14,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),4.243723,232.6415,1021.747631,4,4,3,2,5,3,3,4,Yes
 2711,25792,Urban,47,Female,1,Married,53148.58,10.27957,12,0,0,No,Month-to-month,No,No,None,Yes,No,No,No,No,No,Yes,No,Yes,Electronic Check,1.736879,104.9629,374.332233,4,3,3,4,4,3,3,3,Yes
-2712,0,Suburban,53,Female,5,Widowed,20473.21,16.84547,16,0,0,No,One year,Yes,No,None,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Credit Card (automatic),7.359812,152.509,1170.830123,4,3,4,4,4,4,5,3,Yes
+2712,9993,Suburban,53,Female,5,Widowed,20473.21,16.84547,16,0,0,No,One year,Yes,No,None,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Credit Card (automatic),7.359812,152.509,1170.830123,4,3,4,4,4,4,5,3,Yes
 2713,40,Suburban,59,Male,1,Widowed,11132.31,6.652103,10,2,0,Yes,Month-to-month,No,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Credit Card (automatic),9.328119,194.9663,1667.732624,3,3,3,3,3,3,4,1,Yes
 2714,87,Suburban,20,Female,2,Widowed,42461.74,14.62764,12,1,1,No,Two Year,No,No,None,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Bank Transfer(automatic),17.98715,165.0113,2047.681612,2,4,3,3,5,3,1,2,No
 2715,44249,Urban,38,Male,5,Never Married,18437.44,9.653367,16,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Electronic Check,25.68869,174.9755,2790.931185,4,5,4,3,3,5,4,3,No
@@ -2829,7 +2829,7 @@
 2827,46545,Rural,68,Male,1,Married,69293.12,12.84461,13,0,1,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Electronic Check,8.259716,255.1555,1380.765825,4,4,4,3,3,4,5,2,Yes
 2828,8488,Suburban,47,Male,0,Divorced,3004.46,6.597598,14,0,0,No,Two Year,No,No,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,No,Electronic Check,3.157767,172.4555,675.3184526,3,2,4,3,5,2,2,4,Yes
 2829,15521,Rural,50,Female,2,Never Married,59780.22,14.413,12,0,0,No,Month-to-month,Yes,No,None,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Electronic Check,2.185047,159.9805,472.1439723,1,2,2,3,3,2,3,3,Yes
-2830,0,Rural,42,Female,3,Married,47463.53,10.17097,12,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),4.612442,235.1591,1114.048401,4,3,3,5,3,3,4,4,Yes
+2830,9732,Rural,42,Female,3,Married,47463.53,10.17097,12,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),4.612442,235.1591,1114.048401,4,3,3,5,3,3,4,4,Yes
 2831,2007,Rural,85,Female,0,Divorced,49295.81,11.05648,14,1,1,Yes,Month-to-month,No,No,None,Yes,No,No,No,No,Yes,Yes,No,Yes,Electronic Check,10.75614,117.472,962.301603,5,4,4,4,3,4,4,5,No
 2832,3525,Rural,49,Female,4,Widowed,146951.6,7.831413,13,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,No,No,Credit Card (automatic),14.37481,172.4441,1593.966861,4,4,3,3,4,3,3,3,No
 2833,8225,Urban,83,Female,0,Married,23567.27,8.758616,13,0,2,No,One year,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,Yes,Yes,No,Bank Transfer(automatic),5.447689,230.1051,885.0263451,5,4,5,2,5,3,3,3,No
@@ -3003,7 +3003,7 @@
 3001,50869,Rural,27,Male,3,Separated,145569.5,12.87677,6,2,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Electronic Check,2.258878,174.9919,755.0711809,4,5,4,5,3,4,4,5,Yes
 3002,6002,Rural,77,Male,1,Separated,25806.54,12.93786,12,0,1,No,Two Year,No,No,None,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),5.519258,225.1786,1153.07333,3,5,4,3,4,4,5,2,No
 3003,9583,Urban,46,Female,3,Widowed,48267.33,6.566714,13,1,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),5.944147,164.9853,1429.709066,3,4,5,5,2,4,4,2,Yes
-3004,0,Urban,22,Female,1,Never Married,15864.7,14.3962,17,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Electronic Check,3.255652,242.6281,1021.343044,6,4,4,5,4,5,4,3,Yes
+3004,9542,Urban,22,Female,1,Never Married,15864.7,14.3962,17,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Electronic Check,3.255652,242.6281,1021.343044,6,4,4,5,4,5,4,3,Yes
 3005,4827,Urban,31,Female,0,Never Married,37734.22,16.64886,12,1,0,No,Month-to-month,Yes,No,Fiber Optic,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card (automatic),1.868309,245.1457,922.5780039,4,4,4,3,4,3,2,4,Yes
 3006,7511,Rural,80,Male,0,Divorced,14433.56,8.733939,12,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Bank Transfer(automatic),13.46637,255.1198,2088.717973,2,3,3,3,4,1,4,1,Yes
 3007,1771,Suburban,85,Female,4,Widowed,89441.6,6.862006,7,0,1,No,Two Year,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,No,No,Mailed Check,22.54598,149.9915,2105.676837,6,5,4,1,4,4,2,4,No
@@ -3295,7 +3295,7 @@
 3293,4959,Suburban,83,Male,2,Widowed,24322.13,10.46718,8,3,1,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,No,No,Bank Transfer(automatic),7.266887,147.4738,805.8117417,2,3,3,3,3,3,2,2,No
 3294,1369,Urban,72,Female,1,Widowed,43457.22,7.186131,12,0,0,No,Month-to-month,No,No,None,Yes,No,No,No,No,No,Yes,No,Yes,Mailed Check,8.322733,104.9629,831.9969597,4,4,4,5,2,4,3,4,No
 3295,986,Suburban,42,Male,0,Widowed,54417.19,4.879655,14,2,0,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No,No,Electronic Check,9.961602,167.4564,1086.270579,3,3,3,2,3,3,4,3,Yes
-3296,0,Urban,89,Female,6,Separated,34545.05,10.86219,12,1,1,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Mailed Check,9.244926,184.967,1189.205287,4,3,4,3,4,3,3,3,Yes
+3296,9542,Urban,89,Female,6,Separated,34545.05,10.86219,12,1,1,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Mailed Check,9.244926,184.967,1189.205287,4,3,4,3,4,3,3,3,Yes
 3297,1961,Urban,50,Female,4,Widowed,23753.54,7.064722,10,0,0,Yes,Month-to-month,Yes,Yes,DSL,Yes,No,No,No,No,No,No,No,No,Mailed Check,3.088732,92.45514,785.2993593,5,5,4,3,3,3,4,4,Yes
 3298,907,Suburban,63,Female,4,Married,72873.27,12.13928,12,2,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Bank Transfer(automatic),2.645653,245.175,1076.444999,3,4,3,6,4,4,4,3,Yes
 3299,8171,Rural,88,Female,0,Widowed,57295.46,13.02587,13,2,1,No,One year,Yes,No,None,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Bank Transfer(automatic),16.41429,140.0342,1452.568552,3,3,3,4,4,4,4,2,No
@@ -3343,7 +3343,7 @@
 3341,3215,Suburban,29,Male,5,Married,77001.42,15.75223,11,0,1,No,Month-to-month,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Bank Transfer(automatic),4.672744,174.9768,1419.012995,4,5,6,5,3,5,4,3,No
 3342,5060,Urban,86,Male,0,Never Married,89567.28,8.199481,11,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,No,Yes,Mailed Check,18.16755,137.4698,1938.215738,3,2,4,2,5,3,3,3,No
 3343,45,Urban,75,Male,3,Never Married,95261.66,8.596007,12,2,0,No,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,No,No,Yes,No,Bank Transfer(automatic),8.997315,139.965,1483.797409,4,3,4,4,3,3,3,4,Yes
-3344,0,Suburban,79,Male,0,Divorced,74297.66,6.808384,13,0,0,Yes,Two Year,Yes,No,DSL,No,No,No,No,No,Yes,No,No,No,Bank Transfer(automatic),3.707186,104.9643,704.3641607,3,3,5,4,4,3,3,3,No
+3344,9993,Suburban,79,Male,0,Divorced,74297.66,6.808384,13,0,0,Yes,Two Year,Yes,No,DSL,No,No,No,No,No,Yes,No,No,No,Bank Transfer(automatic),3.707186,104.9643,704.3641607,3,3,5,4,4,3,3,3,No
 3345,1246,Urban,21,Female,6,Never Married,48511.64,7.602007,6,1,0,No,One year,No,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Credit Card (automatic),20.0119,194.9663,2739.364415,3,3,2,3,3,3,3,2,Yes
 3346,696,Suburban,69,Male,1,Widowed,38577.14,9.556195,10,0,1,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Credit Card (automatic),4.060006,235.1555,1446.866289,4,4,3,4,3,4,5,5,Yes
 3347,1405,Suburban,51,Female,0,Widowed,58555.84,11.86282,13,2,0,No,One year,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Bank Transfer(automatic),9.176772,184.9496,1523.800316,4,3,3,1,4,2,3,3,Yes
@@ -3402,7 +3402,7 @@
 3400,331,Urban,39,Male,1,Widowed,75680.04,11.26531,7,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,No,No,Credit Card (automatic),4.93863,149.9778,722.8952824,3,3,2,4,4,4,1,2,No
 3401,51447,Suburban,46,Female,1,Widowed,37838.55,8.918474,7,0,2,No,Two Year,No,No,None,No,No,No,Yes,No,No,Yes,No,No,Credit Card (automatic),7.831837,127.4586,971.0087147,2,2,2,4,3,2,2,3,No
 3402,6902,Urban,59,Male,0,Separated,42450.26,11.96125,7,1,0,No,Month-to-month,No,Yes,DSL,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Electronic Check,3.545553,152.4624,1060.105051,3,4,3,4,3,3,4,3,Yes
-3403,0,Urban,59,Female,9,Married,7101.56,9.913533,13,2,1,No,Month-to-month,Yes,Yes,None,Yes,No,No,No,No,No,No,Yes,Yes,Mailed Check,6.612935,114.9658,944.6665184,4,4,4,3,3,6,5,4,Yes
+3403,9542,Urban,59,Female,9,Married,7101.56,9.913533,13,2,1,No,Month-to-month,Yes,Yes,None,Yes,No,No,No,No,No,No,Yes,Yes,Mailed Check,6.612935,114.9658,944.6665184,4,4,4,3,3,6,5,4,Yes
 3404,32564,Suburban,78,Female,2,Divorced,47190.38,12.94384,13,1,1,Yes,Two Year,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic Check,10.07068,237.6549,1919.953096,3,5,3,4,5,3,3,3,Yes
 3405,10294,Suburban,79,Male,4,Separated,17558.9,8.628832,12,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,No,Credit Card (automatic),4.116596,157.4836,600.3283664,3,3,3,3,5,3,3,5,Yes
 3406,2263,Urban,26,Female,4,Divorced,27196.91,8.712155,15,0,0,No,One year,No,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),7.348696,149.9621,1080.503708,4,4,4,4,3,4,4,4,No
@@ -3497,7 +3497,7 @@
 3495,32688,Suburban,67,Female,1,Never Married,28090.98,10.8972,11,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,No,Electronic Check,1.253929,172.4742,322.5237064,5,5,5,4,2,5,3,4,No
 3496,136,Urban,54,Male,4,Widowed,7985.88,12.10548,11,0,1,No,Month-to-month,Yes,No,None,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Bank Transfer(automatic),1.359104,194.9992,714.3448036,3,3,4,2,4,3,3,4,Yes
 3497,86,Urban,63,Female,4,Divorced,32997.15,7.338415,9,3,0,No,Two Year,Yes,No,None,Yes,No,Yes,Yes,No,No,No,No,No,Electronic Check,4.565947,104.9923,619.4159878,3,2,3,4,3,5,4,2,No
-3498,0,Suburban,32,Female,0,Never Married,13308.45,13.26916,13,0,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,No,No,Electronic Check,21.56869,147.4738,2001.025597,4,3,4,3,4,3,5,4,No
+3498,9993,Suburban,32,Female,0,Never Married,13308.45,13.26916,13,0,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,No,No,Electronic Check,21.56869,147.4738,2001.025597,4,3,4,3,4,3,5,4,No
 3499,3801,Urban,82,Male,4,Separated,13961.97,17.90595,17,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,No,Yes,Credit Card (automatic),7.349571,149.9483,863.2029351,4,5,5,1,5,3,4,2,Yes
 3500,2402,Suburban,26,Male,3,Widowed,33601.53,5.058999,10,1,1,No,Month-to-month,No,No,DSL,Yes,No,No,Yes,Yes,No,No,No,Yes,Electronic Check,19.56364,127.4738,2444.542685,3,3,4,4,2,4,4,3,No
 3501,617,Rural,86,Male,1,Widowed,26071.16,7.630385,12,1,1,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,Yes,No,Yes,Yes,No,Credit Card (automatic),6.081227,200.1323,1409.589822,2,2,2,3,4,3,4,3,Yes
@@ -3584,7 +3584,7 @@
 3582,401,Rural,62,Male,1,Widowed,7582.93,15.43566,18,2,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Bank Transfer(automatic),16.76542,172.4555,1771.904961,4,4,3,3,4,3,4,5,Yes
 3583,16629,Suburban,67,Female,1,Widowed,43187.68,10.67355,14,2,0,No,One year,Yes,Yes,None,Yes,No,Yes,No,No,No,Yes,No,Yes,Electronic Check,16.03441,107.4806,1555.471333,3,1,4,5,3,2,3,4,No
 3584,774,Rural,19,Female,0,Divorced,5391.05,8.964173,11,1,0,No,One year,No,No,DSL,No,No,Yes,No,No,Yes,No,Yes,Yes,Electronic Check,10.85354,142.4689,1639.236491,2,3,1,3,5,2,3,3,No
-3585,0,Urban,36,Female,0,Divorced,32617.88,3.630705,10,0,0,No,Month-to-month,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Mailed Check,6.394005,187.4673,1420.169187,3,3,2,5,4,2,3,4,Yes
+3585,9542,Urban,36,Female,0,Divorced,32617.88,3.630705,10,0,0,No,Month-to-month,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Mailed Check,6.394005,187.4673,1420.169187,3,3,2,5,4,2,3,4,Yes
 3586,29020,Suburban,50,Female,0,Divorced,51544.62,8.39742,8,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Mailed Check,5.72421,175.0062,1208.719407,4,5,5,4,3,3,3,4,Yes
 3587,12414,Suburban,75,Female,2,Never Married,28082.58,8.593495,11,2,0,No,One year,Yes,No,None,Yes,No,No,Yes,No,No,Yes,Yes,No,Mailed Check,2.317456,197.6288,716.3402711,4,6,4,3,3,4,4,3,No
 3588,3494,Suburban,26,Male,1,Never Married,43656.7,7.144546,8,0,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,No,Credit Card (automatic),3.895605,112.4551,506.5377808,3,2,4,3,2,3,3,3,No
@@ -3603,7 +3603,7 @@
 3601,16080,Suburban,85,Male,2,Widowed,125769.6,4.92053,7,0,3,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Electronic Check,7.431055,172.4567,1283.018595,1,2,1,5,1,3,4,2,Yes
 3602,75,Urban,75,Male,0,Separated,3492.34,10.19444,10,0,0,No,Month-to-month,No,No,Fiber Optic,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Mailed Check,10.56737,265.1283,1524.959035,4,4,4,2,5,3,4,4,Yes
 3603,18321,Suburban,88,Female,2,Never Married,23460.04,13.7038,13,0,1,No,Two Year,No,No,DSL,No,Yes,No,No,Yes,Yes,No,No,No,Credit Card (automatic),9.570397,149.9928,1291.655399,5,4,4,4,4,4,6,3,No
-3604,0,Suburban,48,Male,4,Never Married,31889.03,14.24164,9,1,0,No,One year,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,No,Yes,Bank Transfer(automatic),11.29098,119.9568,1782.001605,4,4,5,3,5,5,5,4,No
+3604,9993,Suburban,48,Male,4,Never Married,31889.03,14.24164,9,1,0,No,One year,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,No,Yes,Bank Transfer(automatic),11.29098,119.9568,1782.001605,4,4,5,3,5,5,5,4,No
 3605,9952,Suburban,74,Nonbinary,0,Married,30213.21,7.913408,11,0,1,No,One year,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Credit Card (automatic),2.407697,137.4392,270.9293518,3,3,3,5,4,4,2,4,No
 3606,26061,Rural,87,Female,1,Separated,5269.25,7.10498,13,2,0,Yes,Month-to-month,Yes,No,DSL,Yes,No,Yes,Yes,No,No,No,No,Yes,Mailed Check,3.962302,117.4686,812.4076078,4,4,3,2,6,2,4,3,No
 3607,1165,Urban,58,Female,1,Married,18846.09,12.56004,13,1,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Electronic Check,6.391286,220.1323,1066.249033,4,3,2,3,4,3,3,4,No
@@ -3727,7 +3727,7 @@
 3725,1307,Suburban,57,Female,1,Married,55120.82,13.50565,14,1,1,Yes,Two Year,No,No,DSL,No,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),13.05964,172.4705,1803.766672,3,3,2,4,4,3,4,4,No
 3726,52,Suburban,71,Male,4,Never Married,94629.64,10.30866,14,1,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,Yes,Yes,No,No,No,No,Electronic Check,20.87922,127.4738,2435.584022,3,3,4,5,2,4,4,3,No
 3727,16427,Rural,87,Female,0,Divorced,40870.51,11.86638,13,0,0,No,Two Year,No,No,DSL,Yes,No,No,Yes,No,No,No,Yes,No,Bank Transfer(automatic),13.07421,149.9378,1612.709993,4,5,5,3,4,5,4,6,No
-3728,0,Urban,55,Male,1,Divorced,21549.44,13.51296,11,2,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Credit Card (automatic),4.078283,112.4551,426.4255699,4,3,5,2,5,3,3,3,No
+3728,9542,Urban,55,Male,1,Divorced,21549.44,13.51296,11,2,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Credit Card (automatic),4.078283,112.4551,426.4255699,4,3,5,2,5,3,3,3,No
 3729,17094,Suburban,50,Male,3,Divorced,33565.09,12.43999,16,2,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,No,Credit Card (automatic),3.284958,182.4608,778.200989,3,4,4,3,3,4,5,3,Yes
 3730,339,Suburban,24,Female,0,Widowed,13813.36,11.5956,14,1,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Mailed Check,5.645298,174.9744,1268.042248,2,2,2,3,4,2,3,3,Yes
 3731,36681,Urban,60,Male,4,Never Married,28894.68,5.672909,4,3,0,No,Two Year,No,No,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,No,Mailed Check,19.91179,162.4713,2049.799984,2,3,2,3,3,3,4,3,No
@@ -3823,7 +3823,7 @@
 3821,64,Rural,27,Female,2,Never Married,77124.99,9.069088,11,0,0,Yes,Month-to-month,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Bank Transfer(automatic),9.932123,152.4579,1734.8206,5,5,6,5,3,4,4,5,Yes
 3822,44145,Suburban,73,Female,2,Divorced,38202.86,7.721245,15,2,1,Yes,One year,Yes,No,DSL,Yes,No,No,No,No,No,Yes,No,No,Electronic Check,21.06092,117.4392,2316.736557,3,2,3,5,3,3,3,2,No
 3823,113,Suburban,59,Female,3,Married,51404.81,4.399978,14,1,1,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Mailed Check,12.13947,207.4811,1575.21359,4,3,4,4,5,4,4,2,No
-3824,0,Urban,44,Female,2,Separated,38178.91,8.610443,11,2,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Bank Transfer(automatic),6.192078,137.4392,780.0022534,4,3,2,3,2,3,3,4,No
+3824,9542,Urban,44,Female,2,Separated,38178.91,8.610443,11,2,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,No,Bank Transfer(automatic),6.192078,137.4392,780.0022534,4,3,2,3,2,3,3,4,No
 3825,2640,Suburban,69,Male,1,Never Married,33561.56,10.10955,17,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,No,No,No,No,No,Yes,Electronic Check,10.52734,124.9607,1394.391376,6,5,5,3,4,3,3,3,No
 3826,21734,Suburban,65,Female,4,Divorced,31243.64,7.397173,9,2,2,Yes,Month-to-month,Yes,No,None,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Credit Card (automatic),17.78769,149.989,1833.860705,4,5,5,6,2,5,5,5,No
 3827,680,Rural,40,Female,1,Married,16230.41,11.35369,10,1,0,No,Two Year,Yes,No,DSL,Yes,Yes,No,No,No,No,Yes,No,Yes,Bank Transfer(automatic),18.59752,149.9447,2264.252412,3,4,2,4,2,5,4,3,No
@@ -3997,7 +3997,7 @@
 3995,2107,Suburban,35,Female,5,Widowed,13991.22,10.7329,10,0,3,No,One year,Yes,No,None,Yes,No,No,No,No,No,No,No,No,Electronic Check,18.1201,79.97886,1683.407282,4,3,4,3,4,3,3,3,No
 3996,6750,Suburban,48,Female,3,Widowed,13424.34,9.29595,11,1,1,No,Month-to-month,No,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes,No,Electronic Check,26.06474,172.4705,2960.453451,4,3,3,4,4,5,4,5,Yes
 3997,270,Urban,40,Male,1,Separated,23263.37,6.610095,10,2,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),5.018901,149.9621,798.4043093,4,5,4,2,4,4,4,3,No
-3998,0,Urban,77,Male,2,Separated,49705.64,9.060003,5,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Yes,Credit Card (automatic),6.053801,169.9378,800.6201669,5,3,4,4,2,4,4,4,Yes
+3998,9542,Urban,77,Male,2,Separated,49705.64,9.060003,5,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Yes,Credit Card (automatic),6.053801,169.9378,800.6201669,5,3,4,4,2,4,4,4,Yes
 3999,1174,Suburban,49,Female,4,Separated,71323.38,10.22148,13,1,1,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Yes,Credit Card (automatic),2.366635,207.6094,773.1936845,5,5,5,5,4,4,4,5,No
 4000,5144,Suburban,52,Female,2,Separated,42761.9,10.63881,18,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Bank Transfer(automatic),1.669639,194.9744,498.5585239,2,2,2,4,5,2,2,4,No
 4001,46,Urban,25,Female,0,Separated,73571.78,4.391327,11,0,0,No,Month-to-month,Yes,No,None,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Mailed Check,7.038169,200.1465,1280.711037,3,4,4,3,4,2,2,4,Yes
@@ -4012,7 +4012,7 @@
 4010,83,Suburban,50,Male,1,Divorced,41192.07,11.75093,11,5,1,No,One year,No,No,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Electronic Check,4.541407,227.4754,895.8563668,4,4,4,3,5,4,3,4,Yes
 4011,33960,Suburban,52,Female,3,Married,19839.57,11.26452,10,0,0,No,Month-to-month,Yes,No,DSL,No,No,No,No,No,Yes,Yes,No,No,Electronic Check,5.107455,129.9483,1113.503645,3,3,4,4,4,3,4,3,No
 4012,1243,Urban,81,Male,3,Separated,40129.49,4.955493,13,1,0,Yes,Two Year,No,Yes,DSL,Yes,No,No,No,No,No,Yes,Yes,No,Bank Transfer(automatic),13.79595,187.6094,2034.534213,3,4,3,1,4,3,2,3,Yes
-4013,0,Suburban,59,Female,1,Never Married,43660.04,14.66262,9,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Electronic Check,2.09057,184.9634,1028.550477,4,4,5,4,3,3,4,4,Yes
+4013,9993,Suburban,59,Female,1,Never Married,43660.04,14.66262,9,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Electronic Check,2.09057,184.9634,1028.550477,4,4,5,4,3,3,4,4,Yes
 4014,2153,Rural,30,Male,5,Never Married,29715.31,10.35877,15,2,0,No,One year,No,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Bank Transfer(automatic),2.068518,194.9663,1291.115762,3,3,2,4,3,4,4,4,No
 4015,25048,Urban,36,Male,0,Married,42046.1,11.39904,11,2,0,No,One year,No,No,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Mailed Check,2.866331,162.4713,608.6804201,5,5,5,3,4,4,5,4,No
 4016,491,Urban,31,Male,8,Divorced,12265.71,9.170457,16,1,1,No,Two Year,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Mailed Check,22.48816,169.9741,2470.214952,4,4,5,3,3,4,5,5,No
@@ -4087,7 +4087,7 @@
 4085,2579,Suburban,44,Female,4,Never Married,34597.28,13.76209,11,0,1,No,Month-to-month,No,No,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Mailed Check,6.971251,149.9447,1390.860478,3,3,3,4,3,1,3,2,No
 4086,69,Suburban,75,Female,3,Separated,46745.03,7.199791,7,3,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card (automatic),2.779089,277.6513,1017.250159,4,4,4,3,3,6,5,4,Yes
 4087,9178,Suburban,61,Male,1,Married,5917.37,9.930254,13,0,0,No,Month-to-month,No,No,None,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Credit Card (automatic),9.112126,139.9979,1068.365286,2,3,3,4,3,4,3,4,Yes
-4088,0,Rural,63,Female,0,Married,43184.08,4.272572,18,1,2,No,Two Year,Yes,No,DSL,Yes,No,Yes,No,No,No,No,Yes,Yes,Credit Card (automatic),7.128376,129.9598,1185.421568,5,5,3,3,3,4,5,4,No
+4088,9732,Rural,63,Female,0,Married,43184.08,4.272572,18,1,2,No,Two Year,Yes,No,DSL,Yes,No,Yes,No,No,No,No,Yes,Yes,Credit Card (automatic),7.128376,129.9598,1185.421568,5,5,3,3,3,4,5,4,No
 4089,312,Rural,21,Male,0,Never Married,49614.23,6.244054,11,2,1,No,Two Year,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,No,Yes,Electronic Check,3.033303,137.4698,911.2594992,3,3,4,3,4,3,4,2,No
 4090,79996,Urban,34,Male,0,Never Married,17736.57,11.61228,14,3,0,Yes,One year,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,Yes,Electronic Check,3.211508,159.965,638.2966688,2,3,4,1,4,2,2,3,No
 4091,32388,Rural,25,Female,4,Widowed,50390.91,13.94531,10,5,0,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Bank Transfer(automatic),11.88029,169.9928,1335.552296,4,5,4,4,4,3,4,5,No
@@ -4184,7 +4184,7 @@
 4182,3908,Urban,50,Nonbinary,0,Widowed,7826.14,6.754316,8,1,2,No,Month-to-month,Yes,No,None,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Mailed Check,2.586551,197.6288,719.7255006,3,3,3,5,4,4,4,2,Yes
 4183,293,Rural,27,Male,3,Separated,49626.73,14.07334,11,0,1,No,Month-to-month,Yes,No,DSL,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Credit Card (automatic),9.175977,174.9699,1754.124518,3,3,3,3,3,3,2,2,Yes
 4184,7753,Suburban,44,Nonbinary,3,Widowed,62383.84,0.9003326,12,2,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,No,Bank Transfer(automatic),6.311363,169.9378,874.5896088,3,4,4,2,5,3,3,3,No
-4185,0,Urban,82,Male,3,Married,52312.84,3.075427,16,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Mailed Check,7.27652,240.1149,1155.524102,4,4,5,3,4,3,5,2,Yes
+4185,9542,Urban,82,Male,3,Married,52312.84,3.075427,16,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Mailed Check,7.27652,240.1149,1155.524102,4,4,5,3,4,3,5,2,Yes
 4186,236,Rural,76,Male,0,Divorced,32125.5,16.15631,12,2,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Yes,Bank Transfer(automatic),3.226415,169.9378,510.6595626,5,3,4,4,3,6,4,4,No
 4187,45763,Rural,73,Female,0,Separated,50730.53,14.22008,10,0,0,Yes,One year,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Mailed Check,2.980706,182.447,422.3998081,4,4,4,5,3,6,5,4,No
 4188,20077,Urban,69,Male,4,Separated,24641.27,13.25877,10,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Mailed Check,6.783568,182.4653,1001.378182,1,2,3,3,3,3,3,4,Yes
@@ -4211,7 +4211,7 @@
 4209,7638,Suburban,50,Male,0,Never Married,25598.66,9.390076,14,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,1.070145,184.9496,909.8932554,2,1,2,1,4,3,3,2,Yes
 4210,166,Urban,41,Nonbinary,2,Married,25223.93,11.87416,12,0,2,Yes,Month-to-month,No,No,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes,Yes,Electronic Check,9.664222,240.1149,1368.692393,2,3,2,3,4,4,3,3,Yes
 4211,497,Rural,60,Female,4,Separated,31574.68,5.49158,12,1,2,Yes,One year,No,No,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,3.921335,184.9496,1186.812133,5,5,4,2,5,4,4,4,Yes
-4212,0,Urban,89,Female,0,Divorced,33406.38,9.677547,8,1,0,Yes,Month-to-month,No,No,DSL,No,No,No,Yes,Yes,Yes,Yes,No,No,Credit Card (automatic),8.925564,164.967,1391.823736,5,4,4,3,3,4,6,4,Yes
+4212,9542,Urban,89,Female,0,Divorced,33406.38,9.677547,8,1,0,Yes,Month-to-month,No,No,DSL,No,No,No,Yes,Yes,Yes,Yes,No,No,Credit Card (automatic),8.925564,164.967,1391.823736,5,4,4,3,3,4,6,4,Yes
 4213,4885,Urban,80,Female,0,Married,12155.81,10.51222,12,4,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,No,No,Mailed Check,7.610924,149.9915,775.1851628,4,3,3,4,4,4,4,4,No
 4214,12,Urban,60,Female,2,Divorced,25939.02,8.084497,12,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,No,Electronic Check,11.59641,149.9598,1209.433597,3,3,4,4,3,3,5,3,Yes
 4215,2130,Suburban,72,Female,0,Separated,18774.29,10.4476,17,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Mailed Check,5.540815,194.9663,1201.716157,5,5,4,3,3,4,3,5,Yes
@@ -4224,7 +4224,7 @@
 4222,6254,Suburban,76,Female,0,Never Married,48206.11,8.583463,13,0,0,No,Month-to-month,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,Yes,No,No,Electronic Check,4.192662,204.9634,700.7755614,3,3,4,5,3,4,4,3,Yes
 4223,21129,Urban,56,Female,2,Divorced,54715.58,13.86094,13,0,1,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Mailed Check,16.61624,232.6228,2025.44891,5,5,5,2,5,5,4,4,Yes
 4224,13077,Rural,33,Female,3,Separated,41130.54,10.38794,13,1,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Electronic Check,14.91353,174.991,1806.936325,3,5,4,4,3,4,3,3,Yes
-4225,0,Rural,25,Male,3,Divorced,12588.75,5.710563,15,1,1,No,Month-to-month,No,No,None,Yes,No,Yes,No,Yes,No,No,Yes,No,Electronic Check,5.129202,130.0064,992.4933978,4,3,2,4,5,4,4,3,No
+4225,9732,Rural,25,Male,3,Divorced,12588.75,5.710563,15,1,1,No,Month-to-month,No,No,None,Yes,No,Yes,No,Yes,No,No,Yes,No,Electronic Check,5.129202,130.0064,992.4933978,4,3,2,4,5,4,4,3,No
 4226,9469,Suburban,83,Female,1,Never Married,10048.03,11.73569,16,2,1,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Bank Transfer(automatic),3.817742,152.466,506.3292263,4,5,4,2,5,3,4,4,No
 4227,2534,Urban,34,Female,2,Divorced,37252.55,5.023832,6,3,0,No,Two Year,Yes,No,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Yes,Bank Transfer(automatic),14.48515,179.9476,1528.122932,5,4,4,3,3,3,4,4,No
 4228,9238,Rural,39,Female,3,Never Married,8330.58,15.84283,12,3,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Mailed Check,19.39623,287.6427,2425.973996,4,5,5,3,2,5,5,4,Yes
@@ -4350,7 +4350,7 @@
 4348,10434,Urban,81,Female,0,Separated,38363.26,11.95007,14,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Credit Card (automatic),2.582668,164.9715,866.3476333,3,3,4,4,4,3,4,4,Yes
 4349,90675,Urban,83,Male,0,Separated,57119.13,10.70593,14,1,3,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,No,No,No,Electronic Check,8.152935,124.9781,722.8531617,3,3,3,4,2,3,3,4,No
 4350,14305,Urban,68,Female,1,Never Married,45125.98,6.895659,10,0,1,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),5.402848,215.1591,1445.492967,4,3,5,4,3,3,3,3,Yes
-4351,0,Urban,53,Male,7,Divorced,24050.09,10.49746,12,1,0,No,One year,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Bank Transfer(automatic),7.969762,232.624,1848.363566,4,4,3,4,4,3,4,5,Yes
+4351,9542,Urban,53,Male,7,Divorced,24050.09,10.49746,12,1,0,No,One year,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Bank Transfer(automatic),7.969762,232.624,1848.363566,4,4,3,4,4,3,4,5,Yes
 4352,2845,Urban,54,Female,3,Widowed,20489.38,12.00248,11,0,2,No,One year,Yes,No,DSL,Yes,No,Yes,No,Yes,No,No,No,Yes,Electronic Check,6.106821,107.4958,1149.045043,5,6,4,4,4,5,3,5,No
 4353,3709,Urban,41,Female,1,Separated,18014.85,12.38772,14,1,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,No,Bank Transfer(automatic),6.463724,157.4836,742.5950937,4,4,4,4,5,4,3,6,No
 4354,42,Urban,32,Female,10,Separated,36377.21,10.98759,10,2,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card (automatic),8.285158,277.6513,1824.879678,2,3,3,4,2,4,4,5,Yes
@@ -4365,7 +4365,7 @@
 4363,2238,Urban,89,Female,2,Never Married,4025.77,11.33201,9,0,1,Yes,One year,Yes,No,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit Card (automatic),19.04207,267.6647,2183.450856,4,3,2,4,3,2,2,3,Yes
 4364,124,Suburban,25,Male,3,Divorced,48360.48,9.823607,14,0,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Electronic Check,7.848542,265.147,1478.745798,2,3,3,4,4,2,3,2,Yes
 4365,217,Urban,40,Female,1,Widowed,44309.72,10.93373,16,1,0,No,One year,No,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Credit Card (automatic),7.539374,187.4673,1531.68836,4,4,3,3,4,4,4,4,Yes
-4366,0,Urban,36,Male,0,Married,60010.8,5.221072,9,2,0,No,One year,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Electronic Check,11.07238,164.9853,1837.391501,2,3,3,3,4,3,4,3,Yes
+4366,9542,Urban,36,Male,0,Married,60010.8,5.221072,9,2,0,No,One year,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Electronic Check,11.07238,164.9853,1837.391501,2,3,3,3,4,3,4,3,Yes
 4367,57,Rural,70,Male,3,Divorced,89882.52,7.462184,10,1,0,No,One year,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Credit Card (automatic),11.86797,242.6143,1597.444059,5,5,5,5,2,6,5,5,Yes
 4368,265,Suburban,81,Female,3,Married,86374.11,10.5045,12,1,0,Yes,Two Year,Yes,No,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Mailed Check,7.649477,194.9699,956.2196954,2,3,2,4,4,3,4,4,No
 4369,20759,Suburban,70,Male,3,Never Married,34260.52,15.8889,11,1,0,No,Two Year,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,Yes,Yes,No,Credit Card (automatic),16.60351,230.1051,1981.140361,4,5,4,3,4,4,5,3,No
@@ -4403,7 +4403,7 @@
 4401,1153,Suburban,78,Male,0,Never Married,28326.47,10.94525,12,2,0,No,Two Year,No,No,Fiber Optic,Yes,No,No,Yes,No,No,No,No,No,Credit Card (automatic),4.908846,134.9509,482.2768453,3,4,4,2,5,3,2,2,No
 4402,94,Suburban,33,Male,0,Separated,42506.46,7.041544,12,0,0,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,2.637164,179.9476,581.3197743,4,2,2,4,4,4,3,4,No
 4403,35142,Urban,48,Male,1,Married,8874.14,7.749421,14,1,0,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,No,No,Electronic Check,8.547698,179.9794,1066.677081,5,5,4,4,5,4,3,5,No
-4404,0,Suburban,70,Female,0,Divorced,17844.64,9.519197,8,1,0,No,Month-to-month,No,No,DSL,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,7.465071,222.6326,1559.606858,3,4,4,5,3,3,2,3,Yes
+4404,9993,Suburban,70,Female,0,Divorced,17844.64,9.519197,8,1,0,No,Month-to-month,No,No,DSL,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,7.465071,222.6326,1559.606858,3,4,4,5,3,3,2,3,Yes
 4405,176,Rural,87,Male,3,Separated,34923.5,9.022046,13,0,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Bank Transfer(automatic),2.681114,207.4811,755.4687511,3,3,3,2,4,2,2,5,Yes
 4406,22548,Suburban,49,Female,0,Separated,156571.0,4.929908,11,0,0,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,No,Yes,Credit Card (automatic),2.780152,124.9781,311.8065152,3,3,3,3,3,3,3,5,Yes
 4407,81,Suburban,37,Female,3,Never Married,29101.96,5.924693,13,0,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,Yes,No,Electronic Check,6.979961,159.9512,866.4850145,3,3,3,6,2,3,5,4,Yes
@@ -4489,7 +4489,7 @@
 4487,20163,Urban,25,Male,4,Separated,14738.27,10.02031,9,4,0,Yes,Month-to-month,No,No,Fiber Optic,No,Yes,No,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),1.1518,182.4676,695.0268746,4,4,3,4,4,3,4,4,Yes
 4488,14328,Suburban,58,Female,1,Widowed,83027.06,8.288306,8,2,0,No,Month-to-month,No,No,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes,No,Credit Card (automatic),11.94283,194.9744,1289.865177,3,3,5,3,3,2,3,1,Yes
 4489,199,Rural,74,Male,0,Never Married,25700.68,12.4173,15,1,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Credit Card (automatic),2.147261,270.1604,1341.275592,3,3,3,2,3,1,3,4,Yes
-4490,0,Rural,87,Female,0,Never Married,18148.08,11.04506,13,2,1,No,One year,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Electronic Check,21.72982,235.1555,2757.839041,2,3,1,2,5,2,2,2,Yes
+4490,9732,Rural,87,Female,0,Never Married,18148.08,11.04506,13,2,1,No,One year,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Electronic Check,21.72982,235.1555,2757.839041,2,3,1,2,5,2,2,2,Yes
 4491,4870,Rural,32,Female,0,Never Married,8457.83,7.457158,11,2,0,Yes,Month-to-month,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,No,No,No,Credit Card (automatic),7.042459,139.983,1228.595252,2,3,4,3,3,2,4,3,Yes
 4492,2713,Rural,27,Male,3,Never Married,29924.06,6.583497,16,0,1,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,No,No,Yes,No,Yes,Electronic Check,3.592376,119.9568,1189.261161,4,4,3,3,5,3,3,3,Yes
 4493,94,Suburban,61,Female,4,Widowed,48521.27,9.273629,9,0,1,No,Two Year,No,No,None,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,15.73713,177.6508,1904.60275,3,2,2,4,4,3,5,5,No
@@ -4550,7 +4550,7 @@
 4548,2924,Suburban,56,Male,10,Separated,22142.61,14.23119,9,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Electronic Check,14.66847,184.9715,1880.004543,2,3,3,4,4,3,3,4,Yes
 4549,20935,Rural,79,Female,1,Married,69833.88,8.989878,6,2,0,No,Month-to-month,No,No,Fiber Optic,No,No,No,Yes,No,Yes,No,Yes,No,Electronic Check,5.628186,182.447,650.4414677,1,2,2,4,3,3,2,2,Yes
 4550,274,Suburban,68,Female,1,Separated,60288.26,14.288,11,3,0,No,Two Year,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Mailed Check,10.5771,149.9447,1515.274871,2,2,2,4,6,2,2,2,No
-4551,0,Rural,58,Female,4,Never Married,55582.0,7.601803,12,3,0,No,Month-to-month,Yes,No,None,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Mailed Check,11.42464,197.5169,1518.895794,4,3,4,3,3,4,3,4,Yes
+4551,9732,Rural,58,Female,4,Never Married,55582.0,7.601803,12,3,0,No,Month-to-month,Yes,No,None,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Mailed Check,11.42464,197.5169,1518.895794,4,3,4,3,3,4,3,4,Yes
 4552,29268,Urban,48,Female,4,Separated,12224.95,9.780193,7,4,0,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Electronic Check,3.367303,157.4836,558.284596,3,2,2,4,2,2,3,5,Yes
 4553,365,Urban,70,Female,4,Widowed,6980.4,9.55673,12,2,1,No,Month-to-month,Yes,No,None,Yes,No,No,Yes,No,No,No,No,Yes,Mailed Check,3.071976,102.4746,398.8495205,2,3,4,3,4,3,3,4,Yes
 4554,7878,Urban,67,Male,3,Separated,27127.55,5.391776,9,0,0,No,One year,No,Yes,None,No,No,No,No,No,Yes,Yes,No,No,Credit Card (automatic),3.246478,117.472,545.3992275,4,5,4,2,4,4,4,3,No
@@ -4641,7 +4641,7 @@
 4639,15,Rural,49,Male,1,Married,30638.08,9.208445,14,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Credit Card (automatic),3.171487,194.9581,773.5217752,3,3,2,2,4,5,3,2,Yes
 4640,265,Rural,33,Male,1,Widowed,18308.7,9.649235,11,1,0,No,Month-to-month,No,No,None,Yes,No,Yes,No,No,No,No,Yes,Yes,Mailed Check,1.817421,117.4835,548.1888179,4,3,4,5,3,4,5,4,Yes
 4641,182,Rural,65,Female,2,Divorced,44087.97,5.587786,6,0,1,No,Two Year,No,No,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,No,No,Electronic Check,7.813168,152.466,923.5059358,4,4,5,5,3,6,4,4,No
-4642,0,Urban,45,Female,2,Separated,77615.02,9.242393,10,1,0,No,Two Year,Yes,No,None,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Mailed Check,11.61194,230.1344,1648.220152,3,3,3,3,3,3,5,3,Yes
+4642,9542,Urban,45,Female,2,Separated,77615.02,9.242393,10,1,0,No,Two Year,Yes,No,None,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Mailed Check,11.61194,230.1344,1648.220152,3,3,3,3,3,3,5,3,Yes
 4643,12449,Rural,25,Female,8,Never Married,32005.71,9.736531,13,1,0,Yes,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,No,No,No,Yes,Bank Transfer(automatic),20.91805,124.9607,2523.250672,4,4,3,2,4,3,3,3,Yes
 4644,217,Suburban,29,Male,1,Widowed,42123.52,11.89732,17,2,1,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),7.502506,255.1336,1878.869681,4,5,4,3,5,4,4,3,Yes
 4645,950,Urban,25,Male,8,Separated,46766.41,8.671284,14,0,1,Yes,One year,No,No,Fiber Optic,Yes,No,No,Yes,No,No,Yes,No,Yes,Electronic Check,13.21297,159.9349,1743.325286,5,4,4,2,4,5,5,3,No
@@ -4747,10 +4747,10 @@
 4745,2789,Suburban,56,Male,4,Separated,66989.79,13.3593,13,0,1,No,Month-to-month,No,No,None,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Credit Card (automatic),13.85859,230.1344,1904.863682,3,3,2,3,3,3,2,4,Yes
 4746,1044,Rural,58,Female,2,Never Married,46775.2,5.645543,12,0,0,No,Month-to-month,No,No,DSL,No,No,Yes,Yes,Yes,No,No,No,No,Mailed Check,23.59578,129.9915,2632.143148,1,1,1,3,5,1,2,4,No
 4747,809,Rural,60,Female,2,Divorced,19746.8,6.549501,19,0,1,No,Two Year,No,No,Fiber Optic,Yes,No,No,No,Yes,Yes,No,No,Yes,Credit Card (automatic),4.115815,137.4872,451.0754045,3,3,2,3,5,3,2,3,No
-4748,0,Urban,29,Male,1,Divorced,12854.97,2.542536,14,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,No,No,No,No,No,Bank Transfer(automatic),7.751707,134.9509,906.6526156,3,4,4,2,5,2,3,1,No
+4748,9542,Urban,29,Male,1,Divorced,12854.97,2.542536,14,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,No,No,No,No,No,Bank Transfer(automatic),7.751707,134.9509,906.6526156,3,4,4,2,5,2,3,1,No
 4749,7247,Urban,45,Male,0,Never Married,14277.26,8.920833,12,2,0,No,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,No,Yes,No,No,Yes,Mailed Check,10.277,107.482,1429.357527,3,2,3,4,3,3,4,4,No
 4750,34315,Urban,51,Female,0,Divorced,24376.36,8.974674,14,1,0,No,Month-to-month,Yes,No,None,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Mailed Check,13.89557,220.1615,1745.25049,4,3,5,5,3,4,3,4,Yes
-4751,0,Rural,83,Female,0,Widowed,19271.85,12.22514,15,0,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,No,Yes,Credit Card (automatic),5.792269,144.9607,433.9442354,7,6,6,4,3,4,4,5,Yes
+4751,9732,Rural,83,Female,0,Widowed,19271.85,12.22514,15,0,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,No,Yes,Credit Card (automatic),5.792269,144.9607,433.9442354,7,6,6,4,3,4,4,5,Yes
 4752,50328,Rural,24,Male,2,Widowed,22257.83,10.66071,18,3,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Yes,No,No,Electronic Check,11.89052,152.4441,1871.35466,5,4,4,4,1,4,5,5,No
 4753,6569,Suburban,44,Male,0,Widowed,19620.4,10.30722,9,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Yes,Bank Transfer(automatic),6.971587,207.6094,1090.821866,3,4,3,4,2,4,3,4,Yes
 4754,1691,Urban,47,Male,1,Never Married,14377.15,7.024602,9,1,1,Yes,Two Year,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,Yes,No,Credit Card (automatic),17.30262,182.4433,2275.34376,3,3,2,3,4,3,3,4,Yes
@@ -4758,7 +4758,7 @@
 4756,419,Urban,47,Female,2,Never Married,60598.33,7.001953,6,0,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,Yes,No,No,No,No,No,Bank Transfer(automatic),11.42868,114.9509,1510.913118,4,3,3,5,2,5,3,4,No
 4757,523,Rural,77,Male,4,Divorced,20637.36,8.711448,17,2,1,No,Month-to-month,No,No,Fiber Optic,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Bank Transfer(automatic),5.192447,217.4702,943.0894026,3,3,2,4,4,4,4,3,Yes
 4758,3650,Rural,76,Male,3,Never Married,7677.29,13.15317,13,2,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Yes,Mailed Check,17.1248,207.6094,1910.19173,3,4,4,3,2,4,4,2,No
-4759,0,Rural,37,Male,0,Widowed,26097.52,10.61878,15,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Credit Card (automatic),3.199579,207.6094,804.7021179,2,1,3,2,4,2,3,1,Yes
+4759,9732,Rural,37,Male,0,Widowed,26097.52,10.61878,15,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Credit Card (automatic),3.199579,207.6094,804.7021179,2,1,3,2,4,2,3,1,Yes
 4760,1706,Suburban,40,Male,3,Separated,29174.41,17.81328,18,0,0,No,Month-to-month,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,No,No,Credit Card (automatic),9.630403,149.9621,1237.830202,3,2,4,3,4,3,4,4,No
 4761,28,Urban,22,Male,0,Married,14612.3,13.17154,12,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Electronic Check,5.73926,184.9785,1053.952202,5,4,3,4,4,2,4,4,Yes
 4762,270,Urban,55,Male,1,Divorced,7882.5,4.865293,16,1,0,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,No,Mailed Check,5.506063,192.4705,860.1917234,4,4,5,3,5,3,3,2,No
@@ -4782,7 +4782,7 @@
 4780,1600,Urban,56,Female,0,Divorced,5406.51,9.621544,8,1,1,No,Month-to-month,No,No,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Electronic Check,7.329775,200.1185,1451.591007,1,2,2,5,3,4,2,4,Yes
 4781,11817,Urban,41,Female,0,Separated,44202.8,13.36673,7,1,1,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,11.21881,159.9476,1589.460591,3,2,3,4,3,5,5,3,Yes
 4782,9493,Urban,44,Female,2,Married,36991.79,6.666431,6,1,0,Yes,Two Year,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Electronic Check,13.17784,179.9794,1407.673878,4,4,5,4,3,3,4,4,No
-4783,0,Suburban,70,Male,6,Never Married,23803.0,7.350413,16,1,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Mailed Check,7.03957,204.9634,1185.478786,2,3,3,4,2,3,3,3,No
+4783,9993,Suburban,70,Male,6,Never Married,23803.0,7.350413,16,1,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Mailed Check,7.03957,204.9634,1185.478786,2,3,3,4,2,3,3,3,No
 4784,5020,Urban,80,Female,1,Married,37577.46,13.80285,11,1,0,No,Two Year,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Electronic Check,2.77885,245.147,1187.8922,3,2,2,5,2,3,3,3,Yes
 4785,34390,Suburban,25,Female,1,Divorced,32555.42,12.89791,9,0,0,No,Two Year,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Mailed Check,12.9557,174.9744,1894.547126,2,3,3,4,3,4,5,4,No
 4786,2992,Urban,46,Female,3,Widowed,38869.47,8.345417,14,3,0,No,Two Year,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic Check,21.39532,270.1604,3055.521716,4,3,6,3,4,3,3,3,Yes
@@ -4885,13 +4885,13 @@
 4883,344,Suburban,49,Male,0,Divorced,16161.27,12.44948,13,0,0,No,Month-to-month,No,No,Fiber Optic,No,No,No,Yes,No,Yes,No,Yes,No,Bank Transfer(automatic),3.4187,182.447,619.2614035,4,4,4,3,4,4,4,5,Yes
 4884,4010,Suburban,51,Male,1,Widowed,20845.79,2.53911,11,2,0,No,One year,Yes,No,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Electronic Check,17.58224,197.4876,1964.367635,4,4,5,3,4,4,3,4,No
 4885,11854,Urban,35,Female,2,Never Married,11830.39,8.293752,11,0,0,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,No,No,Yes,Electronic Check,8.423652,144.9607,868.497965,5,4,3,4,3,4,6,4,No
-4886,0,Rural,35,Female,0,Married,50391.85,9.518609,14,2,0,Yes,One year,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Electronic Check,6.739064,252.6378,1211.320081,4,4,2,5,4,3,3,3,Yes
+4886,9732,Rural,35,Female,0,Married,50391.85,9.518609,14,2,0,Yes,One year,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Electronic Check,6.739064,252.6378,1211.320081,4,4,2,5,4,3,3,3,Yes
 4887,353,Urban,27,Female,10,Divorced,48848.88,11.64544,10,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,Yes,Yes,No,Bank Transfer(automatic),22.744,210.127,2774.912011,5,4,5,5,3,4,3,5,Yes
 4888,184,Urban,43,Female,3,Divorced,40398.47,8.644175,11,0,0,No,One year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Mailed Check,6.56131,235.1591,1270.455838,3,3,4,3,4,3,4,3,No
 4889,777,Urban,87,Male,1,Never Married,24165.62,4.565566,16,4,1,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Bank Transfer(automatic),1.726822,152.4624,850.0650584,4,3,4,4,3,5,4,3,Yes
 4890,5303,Urban,70,Male,6,Married,83334.79,7.213508,12,0,2,No,Month-to-month,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Electronic Check,6.495239,197.4725,1558.694988,3,4,2,3,4,3,4,4,Yes
 4891,2348,Rural,78,Male,0,Divorced,11009.87,7.889232,13,2,0,No,Month-to-month,Yes,No,None,Yes,Yes,No,No,Yes,No,No,No,Yes,Bank Transfer(automatic),5.778279,125.0073,616.6230151,4,3,5,5,3,3,2,3,Yes
-4892,0,Suburban,32,Female,5,Separated,59960.0,9.638076,7,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,Yes,No,No,No,Yes,No,Mailed Check,8.324111,182.4433,1629.696337,3,4,4,2,5,3,3,3,Yes
+4892,9993,Suburban,32,Female,5,Separated,59960.0,9.638076,7,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,Yes,No,No,No,Yes,No,Mailed Check,8.324111,182.4433,1629.696337,3,4,4,2,5,3,3,3,Yes
 4893,1913,Urban,55,Female,0,Married,87320.1,10.18997,10,2,0,No,Month-to-month,No,Yes,DSL,Yes,No,No,No,No,Yes,No,No,Yes,Bank Transfer(automatic),4.484822,104.9643,764.4832553,5,3,4,5,1,4,5,4,No
 4894,29586,Urban,64,Male,1,Married,68793.34,12.17642,16,0,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,No,No,No,No,Electronic Check,6.994401,147.4738,814.9942633,3,4,3,4,4,4,5,3,No
 4895,7570,Suburban,57,Female,3,Married,33055.59,8.318932,9,0,0,Yes,Two Year,No,Yes,DSL,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Credit Card (automatic),6.597117,142.4526,1384.04032,3,2,2,3,4,2,2,3,No
@@ -4936,7 +4936,7 @@
 4934,603,Rural,41,Male,0,Widowed,6204.51,11.15744,13,0,1,No,Two Year,No,No,None,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Electronic Check,2.184299,194.9992,701.4431106,4,3,4,6,1,4,4,4,Yes
 4935,2564,Urban,65,Male,1,Married,63911.85,5.788391,11,1,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Electronic Check,15.19674,160.0013,1536.961227,4,4,4,4,4,3,3,5,No
 4936,14801,Rural,78,Female,0,Widowed,8086.98,14.11524,8,1,0,No,Two Year,Yes,No,DSL,Yes,No,No,No,Yes,No,No,Yes,Yes,Mailed Check,9.060452,139.965,1304.494778,3,4,3,4,4,3,3,4,No
-4937,0,Urban,57,Male,3,Divorced,8348.29,3.232997,11,1,0,No,Month-to-month,Yes,Yes,None,Yes,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),12.27603,114.9838,1251.456656,4,5,4,4,4,4,3,4,No
+4937,9542,Urban,57,Male,3,Divorced,8348.29,3.232997,11,1,0,No,Month-to-month,Yes,Yes,None,Yes,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),12.27603,114.9838,1251.456656,4,5,4,4,4,4,3,4,No
 4938,44,Suburban,74,Female,0,Separated,13744.9,7.488474,10,0,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No,Yes,Credit Card (automatic),11.7516,147.4783,1026.949787,4,3,5,4,5,3,3,4,No
 4939,1783,Urban,21,Female,2,Divorced,5436.21,12.78207,12,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,No,Credit Card (automatic),1.556533,182.4608,618.5873585,4,4,4,4,4,4,5,4,No
 4940,2227,Rural,75,Male,2,Widowed,8231.55,8.741825,12,2,1,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Electronic Check,10.59224,245.1457,1601.761071,2,4,5,4,2,4,4,5,Yes
@@ -4953,7 +4953,7 @@
 4951,94,Urban,85,Male,1,Never Married,23170.27,5.774549,9,0,0,No,One year,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Mailed Check,10.17149,214.9525,1157.275128,2,3,1,4,3,3,3,2,Yes
 4952,3306,Suburban,57,Male,4,Widowed,23142.34,8.424871,13,2,0,No,Month-to-month,Yes,No,Fiber Optic,No,No,Yes,Yes,Yes,No,No,No,Yes,Mailed Check,4.73307,149.9915,820.2134061,3,3,2,4,2,3,4,2,No
 4953,1059,Suburban,51,Female,1,Widowed,10090.93,6.828347,13,0,0,No,Two Year,No,No,Fiber Optic,No,Yes,Yes,No,No,No,Yes,No,Yes,Electronic Check,19.39483,172.4624,1955.226259,2,2,2,5,2,4,4,4,No
-4954,0,Suburban,66,Female,3,Never Married,10219.32,7.751726,17,2,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,No,No,No,Electronic Check,4.771263,114.9728,501.6283743,2,3,2,3,4,4,4,3,No
+4954,9993,Suburban,66,Female,3,Never Married,10219.32,7.751726,17,2,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,No,No,No,Electronic Check,4.771263,114.9728,501.6283743,2,3,2,3,4,4,4,3,No
 4955,6762,Rural,27,Male,0,Separated,14624.56,10.61552,15,3,0,No,One year,No,No,DSL,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Bank Transfer(automatic),19.52917,222.6281,2768.129883,5,4,5,3,4,4,4,3,Yes
 4956,63911,Rural,25,Male,0,Divorced,16057.58,11.17837,13,0,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Mailed Check,6.383328,217.4702,1088.018039,3,4,4,2,5,2,3,1,No
 4957,446,Rural,48,Female,3,Separated,45688.19,8.940009,9,2,0,No,Two Year,No,No,None,Yes,No,Yes,Yes,Yes,No,No,No,No,Electronic Check,11.43916,117.5152,1286.132827,3,3,3,4,3,3,3,3,No
@@ -5131,7 +5131,7 @@
 5129,6206,Rural,73,Female,4,Married,31760.65,7.497455,11,1,0,Yes,Two Year,Yes,Yes,None,Yes,Yes,No,No,Yes,No,No,No,Yes,Bank Transfer(automatic),67.18331,125.0073,5705.264431,4,5,4,5,3,5,5,5,No
 5130,3891,Rural,84,Female,4,Never Married,24026.7,7.072618,10,1,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Mailed Check,60.38138,162.4526,5319.773541,3,3,3,5,2,4,4,4,No
 5131,2221,Rural,29,Male,0,Married,73958.51,10.46924,9,1,1,No,One year,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Mailed Check,67.94243,212.6415,6638.783919,3,3,4,5,4,3,2,4,No
-5132,0,Rural,24,Male,4,Separated,35835.58,11.41217,14,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Mailed Check,56.69146,162.4526,5261.201726,2,2,3,4,4,3,2,2,No
+5132,9732,Rural,24,Male,4,Separated,35835.58,11.41217,14,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Mailed Check,56.69146,162.4526,5261.201726,2,2,3,4,4,3,2,2,No
 5133,1663,Urban,77,Male,4,Widowed,74776.99,12.35944,14,2,0,No,Two Year,No,No,DSL,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),68.00474,172.4705,6414.916465,4,4,3,3,3,4,4,5,No
 5134,923,Suburban,84,Female,2,Never Married,24149.71,8.245283,13,1,0,No,Month-to-month,No,No,DSL,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Credit Card (automatic),69.91306,172.4885,6343.107984,4,5,7,4,1,4,6,3,No
 5135,1242,Urban,42,Male,0,Never Married,43632.29,10.67464,13,1,1,No,Two Year,No,No,Fiber Optic,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),64.1621,252.6378,5940.543417,5,3,3,4,2,4,4,3,No
@@ -5146,7 +5146,7 @@
 5144,19461,Suburban,68,Female,4,Never Married,29189.81,10.08782,9,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No,No,Electronic Check,56.12834,147.4783,4805.894692,1,1,2,5,3,3,3,3,No
 5145,2033,Urban,19,Female,2,Never Married,30701.55,15.024,11,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Electronic Check,63.656,197.4945,5807.061171,3,3,3,2,4,3,2,3,No
 5146,24780,Urban,27,Female,0,Married,15249.68,8.532717,14,0,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,Yes,No,No,No,No,Bank Transfer(automatic),62.70697,104.9781,5707.70468,3,3,4,3,6,1,3,3,No
-5147,0,Rural,85,Male,1,Never Married,9508.97,10.00317,13,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Credit Card (automatic),54.09422,160.0013,4658.564203,4,3,4,2,5,2,3,2,No
+5147,9732,Rural,85,Male,1,Never Married,9508.97,10.00317,13,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Credit Card (automatic),54.09422,160.0013,4658.564203,4,3,4,2,5,2,3,2,No
 5148,1020,Suburban,45,Male,0,Widowed,17312.0,5.761471,9,0,0,No,Two Year,No,No,DSL,Yes,No,No,No,Yes,No,Yes,No,Yes,Electronic Check,58.89846,129.9621,5579.495808,4,4,4,5,2,4,6,5,No
 5149,6,Urban,57,Male,3,Widowed,21485.23,4.034332,12,0,0,No,Two Year,No,No,Fiber Optic,Yes,No,No,Yes,No,No,Yes,No,Yes,Bank Transfer(automatic),63.24097,159.9349,5583.671778,4,4,4,4,4,4,4,2,No
 5150,86,Urban,40,Female,1,Separated,85066.22,11.34395,9,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Electronic Check,71.36133,235.1591,6528.295974,3,4,4,4,4,3,3,2,No
@@ -5273,7 +5273,7 @@
 5271,4407,Rural,25,Female,3,Separated,48231.57,9.604386,10,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Credit Card (automatic),67.33169,152.4624,6443.376935,5,5,5,5,3,5,6,3,No
 5272,1186,Rural,24,Male,1,Divorced,59523.54,9.809329,17,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Electronic Check,60.83121,149.9447,5824.302038,3,3,3,5,3,3,2,3,No
 5273,46024,Urban,81,Female,1,Widowed,59907.44,13.34997,13,3,1,No,One year,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Bank Transfer(automatic),43.3907,187.4673,4334.844433,4,4,3,3,4,5,3,4,No
-5274,0,Urban,28,Male,3,Separated,32205.64,10.27543,14,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Mailed Check,59.238,137.4392,5256.767211,3,4,3,4,5,4,3,3,No
+5274,9542,Urban,28,Male,3,Separated,32205.64,10.27543,14,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Mailed Check,59.238,137.4392,5256.767211,3,4,3,4,5,4,3,3,No
 5275,10511,Rural,29,Female,1,Married,33341.83,7.397684,18,1,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,No,Credit Card (automatic),43.1183,182.4433,4367.354584,3,4,4,1,6,2,3,3,No
 5276,2104,Urban,22,Nonbinary,1,Divorced,45197.21,8.987561,13,0,1,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Mailed Check,68.84751,255.1417,6329.078853,4,4,3,4,2,5,3,5,No
 5277,35950,Rural,42,Male,0,Separated,61262.44,14.56695,12,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Mailed Check,68.95234,172.4705,6484.174701,4,4,4,4,3,6,4,4,No
@@ -5333,7 +5333,7 @@
 5331,25030,Suburban,56,Male,3,Divorced,151312.2,7.587497,8,1,0,No,Month-to-month,No,No,DSL,Yes,No,No,Yes,Yes,Yes,No,No,No,Electronic Check,64.38382,139.983,6022.975358,5,4,3,2,3,5,4,4,No
 5332,1373,Suburban,56,Female,4,Separated,135891.8,2.475863,17,1,0,No,Month-to-month,No,Yes,DSL,Yes,No,No,Yes,No,Yes,No,No,Yes,Electronic Check,53.77863,127.4601,5017.361668,5,6,5,4,4,4,4,4,No
 5333,376,Rural,88,Female,2,Divorced,39157.83,14.46971,12,2,0,Yes,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,No,Credit Card (automatic),67.34157,149.9621,5731.345598,5,5,4,3,4,3,4,5,No
-5334,0,Rural,75,Female,1,Never Married,30009.55,7.352787,14,0,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),52.42146,182.4676,4592.61237,3,4,4,3,4,2,3,2,No
+5334,9732,Rural,75,Female,1,Never Married,30009.55,7.352787,14,0,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Bank Transfer(automatic),52.42146,182.4676,4592.61237,3,4,4,3,4,2,3,2,No
 5335,312,Urban,40,Male,1,Never Married,25697.08,14.22619,11,0,0,Yes,Month-to-month,Yes,No,Fiber Optic,No,No,No,Yes,No,No,No,Yes,No,Electronic Check,56.82113,169.9378,5050.910171,3,3,3,2,4,4,3,4,No
 5336,870,Suburban,37,Female,2,Widowed,52076.3,10.05372,7,0,0,No,Two Year,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,No,Yes,Mailed Check,58.7019,149.9447,5590.939054,5,5,4,4,4,4,5,7,No
 5337,1271,Suburban,71,Female,2,Never Married,26166.52,8.908092,9,2,1,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Mailed Check,66.59235,204.9797,5765.833852,4,4,3,4,4,3,2,4,No
@@ -5377,7 +5377,7 @@
 5375,76,Suburban,63,Male,7,Widowed,98665.78,10.55549,9,2,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Mailed Check,67.77122,137.4392,5964.347127,3,3,2,4,4,3,4,3,No
 5376,2247,Rural,57,Male,0,Never Married,14535.4,15.44802,11,1,0,No,Two Year,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Electronic Check,53.92384,270.1604,5639.473416,4,4,4,5,3,6,5,4,No
 5377,3991,Suburban,53,Female,5,Widowed,32677.84,14.39837,14,0,1,No,One year,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,No,No,No,Electronic Check,58.33561,159.9656,5503.322362,3,3,2,3,4,3,3,3,No
-5378,0,Suburban,58,Female,0,Separated,4174.13,7.143661,15,1,2,No,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Mailed Check,62.76753,142.4713,5811.165878,5,3,6,4,2,6,6,3,No
+5378,9993,Suburban,58,Female,0,Separated,4174.13,7.143661,15,1,2,No,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Mailed Check,62.76753,142.4713,5811.165878,5,3,6,4,2,6,6,3,No
 5379,1002,Rural,89,Female,5,Divorced,16303.01,10.52149,9,1,0,No,One year,Yes,No,DSL,No,Yes,Yes,No,No,No,Yes,No,No,Electronic Check,63.38899,152.4624,5972.05769,3,3,4,5,3,4,3,6,No
 5380,19432,Suburban,28,Female,0,Never Married,120324.8,13.34556,9,1,1,No,Month-to-month,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,Yes,Credit Card (automatic),71.41865,147.4564,6499.037593,4,4,4,3,4,3,3,4,No
 5381,23530,Urban,41,Female,3,Never Married,24818.42,13.11388,13,0,0,No,One year,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,Yes,No,No,Electronic Check,45.33017,139.9568,4102.71703,4,4,4,3,3,5,4,3,No
@@ -5390,7 +5390,7 @@
 5388,2416,Rural,83,Male,0,Divorced,152813.5,12.19182,13,1,1,No,Month-to-month,No,No,DSL,Yes,No,No,No,Yes,Yes,No,No,No,Electronic Check,54.03025,117.4872,4899.758441,6,4,4,3,5,3,2,4,No
 5389,29942,Rural,63,Female,2,Never Married,10621.15,9.190279,13,0,1,No,Month-to-month,No,Yes,None,Yes,No,No,Yes,No,No,Yes,No,Yes,Bank Transfer(automatic),55.50904,127.4586,4852.623608,5,5,4,3,5,3,4,2,No
 5390,17246,Rural,63,Female,0,Never Married,8972.5,13.38781,13,3,0,No,One year,Yes,No,None,Yes,No,Yes,No,No,No,Yes,No,Yes,Mailed Check,59.50718,107.4806,5099.866817,4,5,5,2,3,5,4,4,No
-5391,0,Urban,42,Male,0,Divorced,94042.03,12.10338,9,2,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Electronic Check,67.94385,232.6415,6182.78427,5,4,4,4,5,5,4,3,No
+5391,9542,Urban,42,Male,0,Divorced,94042.03,12.10338,9,2,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Electronic Check,67.94385,232.6415,6182.78427,5,4,4,4,5,5,4,3,No
 5392,581,Suburban,89,Female,3,Divorced,28391.83,20.62504,13,0,1,No,One year,No,No,None,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Bank Transfer(automatic),62.27986,172.5034,5384.246623,4,4,4,2,3,2,4,2,No
 5393,16906,Urban,31,Female,1,Widowed,17575.29,5.925463,13,3,1,No,Month-to-month,No,No,DSL,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Credit Card (automatic),49.48328,164.967,4935.980732,4,3,3,4,2,4,4,3,No
 5394,12,Rural,51,Male,3,Married,25201.18,8.329768,10,0,1,Yes,Month-to-month,No,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes,No,Credit Card (automatic),70.0669,200.1185,6747.936863,5,4,4,4,3,4,4,5,No
@@ -5528,7 +5528,7 @@
 5526,3716,Rural,50,Male,0,Widowed,13238.2,12.39145,6,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Bank Transfer(automatic),68.68481,207.6094,6127.79877,5,3,3,4,2,4,5,5,No
 5527,467,Urban,87,Male,0,Never Married,34209.19,6.413823,14,1,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,No,Yes,Electronic Check,65.64814,144.9607,5407.576321,6,5,7,3,4,4,4,4,No
 5528,401,Rural,54,Female,0,Separated,46724.11,6.186245,12,1,0,Yes,One year,Yes,No,DSL,Yes,Yes,No,No,No,Yes,No,No,No,Electronic Check,68.85746,137.4698,6114.267462,5,4,5,3,4,4,6,4,No
-5529,0,Suburban,26,Male,2,Never Married,44343.75,9.817377,18,0,2,No,Two Year,No,No,Fiber Optic,No,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),70.634,147.4601,6104.035524,6,5,5,5,2,5,4,6,No
+5529,9993,Suburban,26,Male,2,Never Married,44343.75,9.817377,18,0,2,No,Two Year,No,No,Fiber Optic,No,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),70.634,147.4601,6104.035524,6,5,5,5,2,5,4,6,No
 5530,13895,Rural,71,Female,8,Divorced,55008.17,10.26151,13,2,1,No,One year,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Electronic Check,41.51958,167.4847,4443.003488,4,4,3,3,5,3,2,3,No
 5531,233,Urban,87,Male,4,Separated,44669.47,3.521663,8,2,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,No,Electronic Check,58.64675,152.4555,5627.453779,3,4,2,2,3,3,4,3,No
 5532,1413,Rural,73,Male,0,Never Married,22773.12,7.184528,11,1,1,No,Two Year,No,No,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Mailed Check,58.52603,197.4876,5216.298758,4,4,3,3,2,4,5,4,No
@@ -5880,7 +5880,7 @@
 5878,322,Rural,77,Female,1,Divorced,62309.09,11.74663,9,0,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,No,No,Bank Transfer(automatic),64.63019,192.4404,5595.256243,3,3,3,2,5,3,3,4,No
 5879,1010,Rural,62,Male,2,Separated,14744.09,9.358337,11,0,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Credit Card (automatic),66.9541,217.4725,6002.159687,1,1,2,3,4,4,2,2,No
 5880,8658,Urban,89,Male,4,Married,37652.91,14.06726,15,1,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No,Yes,Credit Card (automatic),71.80429,137.4686,6125.821735,5,5,5,3,3,6,6,4,No
-5881,0,Urban,40,Male,1,Widowed,50465.23,10.2408,14,0,0,No,Two Year,No,No,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Credit Card (automatic),37.04125,149.9447,3822.54562,3,3,4,3,3,5,4,5,No
+5881,9542,Urban,40,Male,1,Widowed,50465.23,10.2408,14,0,0,No,Two Year,No,No,DSL,Yes,Yes,No,No,No,No,Yes,No,No,Credit Card (automatic),37.04125,149.9447,3822.54562,3,3,4,3,3,5,4,5,No
 5882,1879,Rural,88,Male,0,Separated,6015.6,9.281327,19,0,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Credit Card (automatic),46.55404,220.1185,4194.186085,4,3,4,5,3,3,4,4,Yes
 5883,1537,Rural,19,Female,2,Separated,13543.51,12.97013,16,1,0,No,One year,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Mailed Check,65.54969,204.9634,5976.68996,3,3,3,2,4,3,1,4,No
 5884,16548,Rural,88,Female,2,Married,81253.97,8.241715,14,2,0,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Bank Transfer(automatic),57.18854,159.983,4801.928653,5,5,4,4,3,5,5,6,No
@@ -5888,7 +5888,7 @@
 5886,587,Suburban,29,Male,3,Divorced,8068.23,9.92206,11,1,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,Yes,Yes,No,No,Yes,Electronic Check,69.90673,117.4872,6470.044027,3,2,4,4,6,4,3,2,No
 5887,2778,Rural,63,Male,0,Widowed,54739.98,11.59205,14,2,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Electronic Check,58.9945,140.0013,5514.922539,3,3,4,3,5,1,2,3,No
 5888,12135,Urban,29,Female,3,Widowed,33280.3,8.904872,12,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,No,No,No,No,No,Credit Card (automatic),62.94907,144.9607,5386.649919,4,4,5,4,2,4,5,5,No
-5889,0,Suburban,69,Female,3,Separated,44042.94,14.90722,16,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Bank Transfer(automatic),64.07956,184.967,5655.455765,2,1,2,4,3,3,3,2,No
+5889,9993,Suburban,69,Female,3,Separated,44042.94,14.90722,16,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Bank Transfer(automatic),64.07956,184.967,5655.455765,2,1,2,4,3,3,3,2,No
 5890,34381,Suburban,49,Male,2,Separated,65174.04,6.304058,12,2,1,No,Two Year,Yes,No,DSL,Yes,No,No,No,Yes,No,Yes,No,Yes,Credit Card (automatic),46.55143,129.9621,4616.261041,5,4,4,3,5,5,4,4,No
 5891,10790,Urban,40,Female,1,Separated,15503.73,15.33231,15,0,3,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,No,Yes,No,Mailed Check,40.7843,172.4567,4050.379301,3,3,3,4,2,4,4,4,Yes
 5892,384,Urban,54,Male,0,Separated,2421.1,11.51282,12,0,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No,Yes,Mailed Check,56.03048,167.4564,4821.711621,3,2,4,3,3,4,3,4,No
@@ -6002,7 +6002,7 @@
 6000,3157,Suburban,68,Female,0,Married,13970.62,10.44715,15,2,1,No,Two Year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,No,Mailed Check,44.09777,162.4827,3869.872224,3,3,2,4,3,3,3,3,No
 6001,2817,Suburban,64,Female,0,Never Married,30067.59,8.42186,12,1,0,No,Two Year,No,No,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Credit Card (automatic),70.62164,242.6106,6772.978906,4,5,4,5,4,4,5,4,No
 6002,2922,Rural,47,Male,2,Divorced,52288.11,2.205335,8,2,0,No,One year,No,No,Fiber Optic,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Credit Card (automatic),63.92945,172.4579,5727.232268,2,2,3,3,4,2,2,2,No
-6003,0,Urban,25,Female,3,Widowed,27034.63,7.881495,13,2,0,No,Two Year,No,Yes,DSL,No,No,Yes,No,No,No,No,No,No,Electronic Check,59.46448,94.97283,5530.990602,4,4,4,1,5,4,4,3,No
+6003,9542,Urban,25,Female,3,Widowed,27034.63,7.881495,13,2,0,No,Two Year,No,Yes,DSL,No,No,Yes,No,No,No,No,No,No,Electronic Check,59.46448,94.97283,5530.990602,4,4,4,1,5,4,4,3,No
 6004,1751,Suburban,65,Female,2,Divorced,42345.21,11.69747,15,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),70.56628,172.4705,6520.292051,3,2,3,4,3,2,3,3,No
 6005,104,Urban,25,Female,3,Divorced,12346.69,9.979353,11,2,1,No,Month-to-month,No,No,Fiber Optic,No,No,Yes,No,No,No,No,No,No,Electronic Check,56.08957,114.9728,4840.964036,4,3,4,4,4,4,4,3,No
 6006,12727,Urban,67,Male,0,Never Married,13077.96,7.286688,12,2,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Credit Card (automatic),69.30257,172.4624,6008.369934,2,2,3,2,4,2,3,3,No
@@ -6037,7 +6037,7 @@
 6035,1239,Rural,18,Female,8,Never Married,29377.52,9.969352,14,4,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,No,Yes,No,No,No,Credit Card (automatic),42.05546,157.4698,3868.983397,6,6,5,4,2,6,4,4,No
 6036,10268,Urban,84,Male,2,Never Married,33896.9,15.97382,9,2,0,Yes,Two Year,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,No,Yes,Electronic Check,55.08862,149.9447,5187.833012,3,4,4,3,3,4,3,3,No
 6037,92,Rural,86,Male,1,Separated,18543.4,12.86128,13,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No,No,Electronic Check,36.44011,137.4686,3145.639435,3,4,4,2,4,4,4,2,No
-6038,0,Urban,32,Male,5,Never Married,18213.56,9.020396,15,2,0,Yes,Two Year,Yes,No,Fiber Optic,No,No,No,Yes,Yes,No,No,No,Yes,Bank Transfer(automatic),50.07627,147.4738,4573.084997,2,3,3,5,3,4,5,2,No
+6038,9542,Urban,32,Male,5,Never Married,18213.56,9.020396,15,2,0,Yes,Two Year,Yes,No,Fiber Optic,No,No,No,Yes,Yes,No,No,No,Yes,Bank Transfer(automatic),50.07627,147.4738,4573.084997,2,3,3,5,3,4,5,2,No
 6039,1614,Rural,24,Female,2,Never Married,5911.67,8.486609,9,1,0,No,Two Year,No,No,Fiber Optic,Yes,No,No,No,No,Yes,No,No,Yes,Electronic Check,42.10529,124.9643,3596.735771,3,3,4,3,4,2,3,3,No
 6040,25454,Rural,63,Female,4,Never Married,106634.6,14.12546,14,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Credit Card (automatic),60.75598,184.9797,5788.90717,3,3,3,4,4,2,3,3,No
 6041,1272,Rural,72,Male,3,Widowed,21574.46,12.41943,15,1,0,Yes,Two Year,No,No,None,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Bank Transfer(automatic),41.60875,220.1615,4086.565,3,4,3,4,3,3,4,3,Yes
@@ -6106,7 +6106,7 @@
 6104,2215,Suburban,83,Female,0,Separated,14571.81,13.61762,14,2,2,Yes,Month-to-month,No,No,DSL,Yes,No,No,Yes,No,Yes,Yes,No,No,Credit Card (automatic),68.15887,152.4441,6179.798997,3,3,2,3,3,4,4,2,No
 6105,13805,Rural,40,Male,0,Separated,25993.77,13.25194,13,1,1,No,Two Year,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Electronic Check,56.95876,235.1555,5845.571509,3,2,3,4,3,4,2,3,Yes
 6106,2357,Rural,72,Female,3,Divorced,27744.81,13.90534,10,2,1,No,One year,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,Yes,No,Yes,Electronic Check,62.77848,159.9349,5449.543139,4,4,4,3,4,4,3,4,No
-6107,0,Rural,51,Female,2,Never Married,42934.29,14.55919,12,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Mailed Check,64.54916,214.9663,5753.65882,3,4,5,3,4,3,4,4,No
+6107,9732,Rural,51,Female,2,Never Married,42934.29,14.55919,12,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Mailed Check,64.54916,214.9663,5753.65882,3,4,5,3,4,3,4,4,No
 6108,2166,Urban,81,Male,4,Widowed,34424.64,9.467759,6,1,1,No,Month-to-month,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,No,No,Yes,Mailed Check,55.42423,107.4958,5214.554943,4,4,5,4,2,4,3,5,No
 6109,1177,Rural,68,Female,3,Widowed,121118.5,7.705812,12,3,0,No,Two Year,No,No,DSL,Yes,No,No,Yes,No,Yes,Yes,No,No,Credit Card (automatic),64.61204,152.4441,6030.712542,2,2,3,3,5,2,2,1,No
 6110,10777,Suburban,49,Female,1,Widowed,39126.86,9.850163,9,0,1,Yes,One year,No,No,None,Yes,No,No,No,No,No,No,Yes,No,Bank Transfer(automatic),67.15389,114.9658,5691.770997,3,3,3,3,5,3,4,3,No
@@ -6219,7 +6219,7 @@
 6217,27211,Rural,73,Male,1,Married,14325.51,12.85453,13,1,0,No,One year,Yes,No,DSL,Yes,No,No,No,No,No,No,No,No,Credit Card (automatic),60.20609,92.45514,5379.896069,2,1,3,2,5,3,1,3,No
 6218,1389,Urban,31,Female,3,Never Married,30533.21,8.939435,12,2,0,Yes,Month-to-month,No,No,None,Yes,Yes,No,No,No,No,Yes,No,No,Electronic Check,46.00587,137.4684,4187.61619,4,5,5,3,2,3,5,4,No
 6219,3842,Rural,88,Male,3,Never Married,123206.3,10.06248,8,1,0,No,Two Year,No,No,None,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Electronic Check,62.8196,172.4848,5593.760801,3,2,3,2,5,2,2,2,No
-6220,0,Rural,77,Female,0,Widowed,4007.53,2.304655,13,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Credit Card (automatic),55.17028,222.6362,4964.396722,5,4,5,3,5,4,2,4,No
+6220,9732,Rural,77,Female,0,Widowed,4007.53,2.304655,13,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Credit Card (automatic),55.17028,222.6362,4964.396722,5,4,5,3,5,4,2,4,No
 6221,4286,Rural,33,Male,0,Divorced,19016.55,12.12014,16,3,0,Yes,Two Year,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Electronic Check,51.06149,164.9785,5144.987347,4,3,4,3,2,5,4,3,No
 6222,39440,Suburban,32,Male,4,Married,109866.0,6.970213,9,0,1,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,Yes,No,Yes,Yes,No,Credit Card (automatic),57.59524,200.1323,5899.937578,3,2,2,4,4,4,3,4,Yes
 6223,5467,Rural,72,Male,0,Widowed,33920.51,8.868794,8,0,0,No,Two Year,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes,No,Electronic Check,57.87341,220.1149,5655.25061,3,3,3,3,5,4,2,3,No
@@ -6337,7 +6337,7 @@
 6335,2762,Urban,32,Female,1,Widowed,85844.61,13.2872,6,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Bank Transfer(automatic),60.07014,195.0062,5338.013529,2,2,2,2,4,3,2,1,No
 6336,647,Suburban,86,Female,2,Divorced,99342.82,13.64304,8,2,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,63.1308,204.9496,5477.999845,5,4,3,5,2,3,4,4,No
 6337,1605,Suburban,88,Male,1,Widowed,13397.57,16.10876,11,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Electronic Check,63.63312,192.4567,5433.979472,3,3,3,3,3,5,3,3,No
-6338,0,Suburban,41,Male,0,Separated,21939.33,16.17011,13,1,0,No,Month-to-month,No,Yes,DSL,Yes,No,No,No,Yes,Yes,No,No,No,Electronic Check,67.33827,117.4872,6127.89199,5,3,4,3,4,4,4,5,No
+6338,9993,Suburban,41,Male,0,Separated,21939.33,16.17011,13,1,0,No,Month-to-month,No,Yes,DSL,Yes,No,No,No,Yes,Yes,No,No,No,Electronic Check,67.33827,117.4872,6127.89199,5,3,4,3,4,4,4,5,No
 6339,6874,Urban,48,Female,3,Never Married,28644.87,10.26124,14,1,0,No,One year,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,No,No,Bank Transfer(automatic),50.56908,132.466,4926.848896,4,4,4,3,4,4,4,4,No
 6340,19704,Rural,57,Female,4,Married,38158.54,10.80053,15,1,1,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,No,Electronic Check,45.95837,159.965,4106.326096,4,4,3,2,4,4,5,3,No
 6341,2158,Rural,59,Male,0,Widowed,97916.45,12.48949,10,1,0,No,Two Year,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Credit Card (automatic),59.05725,242.6106,5888.86414,2,2,4,4,4,4,3,4,No
@@ -6607,7 +6607,7 @@
 6605,35923,Suburban,55,Male,2,Widowed,15629.36,11.61045,16,0,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,Yes,No,No,Credit Card (automatic),68.16171,139.9568,5943.852289,4,3,4,4,3,3,3,3,No
 6606,2459,Urban,46,Female,1,Separated,25006.29,9.68227,13,0,1,No,Two Year,No,No,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Credit Card (automatic),54.66546,172.4742,4767.800579,4,3,3,3,2,4,3,4,No
 6607,35999,Suburban,38,Female,2,Never Married,16955.9,12.10748,11,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Mailed Check,70.76841,207.4673,6336.386835,3,4,4,4,3,6,3,3,No
-6608,0,Urban,37,Male,0,Separated,14517.86,7.322529,11,1,1,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Electronic Check,54.22191,157.4836,4720.413829,4,3,4,3,5,2,4,3,No
+6608,9542,Urban,37,Male,0,Separated,14517.86,7.322529,11,1,1,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Electronic Check,54.22191,157.4836,4720.413829,4,3,4,3,5,2,4,3,No
 6609,4825,Urban,54,Male,2,Never Married,64891.95,8.231993,11,1,0,No,Month-to-month,No,No,None,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Mailed Check,44.97976,177.6508,4309.116061,3,5,4,4,4,3,3,3,No
 6610,96575,Suburban,88,Female,3,Widowed,3867.46,6.429379,10,2,1,No,Month-to-month,No,No,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Electronic Check,38.7682,235.1372,4194.161012,3,2,3,3,2,3,1,2,Yes
 6611,5394,Suburban,59,Female,3,Widowed,21002.95,9.093479,7,2,1,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,70.91142,179.9476,6100.38844,5,3,5,4,3,5,4,5,No
@@ -6660,11 +6660,11 @@
 6658,180,Suburban,69,Male,4,Married,48722.63,8.780902,11,0,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,No,No,Credit Card (automatic),62.30892,149.9483,5409.075897,2,2,4,3,2,2,3,3,No
 6659,577,Urban,40,Male,1,Widowed,38810.68,11.36776,10,1,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Electronic Check,50.47725,275.1336,4950.568297,2,1,3,3,5,3,3,3,Yes
 6660,35107,Urban,35,Female,1,Married,9467.17,8.000052,12,2,2,No,Two Year,Yes,No,DSL,Yes,No,No,Yes,No,No,No,No,Yes,Electronic Check,57.07682,114.9509,5259.782716,3,4,3,3,5,3,2,4,No
-6661,0,Urban,84,Female,1,Never Married,123991.0,10.68702,12,2,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Mailed Check,63.06198,262.6106,5705.273815,4,4,4,3,3,4,4,5,No
+6661,9542,Urban,84,Female,1,Never Married,123991.0,10.68702,12,2,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Mailed Check,63.06198,262.6106,5705.273815,4,4,4,3,3,4,4,5,No
 6662,1543,Rural,36,Male,1,Never Married,51474.72,14.51013,12,2,0,No,Two Year,No,No,DSL,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Bank Transfer(automatic),59.63287,202.65,6036.630597,5,3,3,4,4,2,2,1,No
 6663,34545,Urban,37,Male,2,Married,31557.0,7.332902,20,2,1,Yes,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,No,No,Yes,No,Electronic Check,55.50261,159.9476,5374.949556,4,4,5,4,4,4,3,3,No
 6664,2287,Rural,31,Female,4,Widowed,19869.05,11.60439,16,3,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,No,Mailed Check,56.61898,159.965,5065.07831,3,4,2,2,5,2,4,4,No
-6665,0,Urban,70,Female,2,Divorced,89705.73,10.38278,13,0,1,No,Two Year,Yes,Yes,None,Yes,No,No,No,No,No,Yes,Yes,Yes,Bank Transfer(automatic),61.37983,175.1331,5478.186769,4,4,5,6,3,4,5,4,No
+6665,9542,Urban,70,Female,2,Divorced,89705.73,10.38278,13,0,1,No,Two Year,Yes,Yes,None,Yes,No,No,No,No,No,Yes,Yes,Yes,Bank Transfer(automatic),61.37983,175.1331,5478.186769,4,4,5,6,3,4,5,4,No
 6666,27773,Suburban,58,Male,0,Married,77599.57,5.919417,17,1,1,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Bank Transfer(automatic),50.63449,182.4653,4507.354465,4,4,3,2,4,3,3,3,No
 6667,28254,Rural,67,Female,0,Married,10529.16,10.89757,13,0,0,Yes,One year,No,No,None,Yes,No,No,No,No,No,No,Yes,No,Bank Transfer(automatic),55.61318,114.9658,4656.349658,4,4,5,5,4,5,4,4,No
 6668,1812,Urban,57,Female,3,Divorced,13964.89,18.30895,16,1,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Mailed Check,68.04207,149.9741,6294.844556,2,2,3,3,4,3,2,2,No
@@ -6777,10 +6777,10 @@
 6775,32737,Rural,67,Female,1,Married,67334.21,8.552474,13,2,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Mailed Check,66.3883,172.4624,5753.311311,4,4,3,2,4,3,2,3,No
 6776,37234,Rural,73,Male,2,Married,8540.76,9.346761,9,2,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Electronic Check,60.17878,192.4885,5250.358878,5,3,4,4,4,3,3,4,No
 6777,2106,Rural,25,Female,0,Separated,25391.03,12.75451,11,1,0,No,One year,No,Yes,None,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,54.91727,139.9678,4871.477155,3,4,4,3,4,2,5,3,No
-6778,0,Rural,41,Female,2,Divorced,74927.45,10.14027,10,1,2,No,Month-to-month,Yes,No,None,Yes,No,Yes,No,No,No,No,No,No,Electronic Check,58.6244,82.49655,4965.419569,3,3,4,3,6,3,3,2,No
+6778,9732,Rural,41,Female,2,Divorced,74927.45,10.14027,10,1,2,No,Month-to-month,Yes,No,None,Yes,No,Yes,No,No,No,No,No,No,Electronic Check,58.6244,82.49655,4965.419569,3,3,4,3,6,3,3,2,No
 6779,8738,Rural,32,Male,1,Divorced,5440.68,6.09105,14,1,0,Yes,Month-to-month,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Electronic Check,44.94292,175.0062,4594.301628,5,4,4,4,4,5,4,5,No
 6780,13166,Rural,29,Female,2,Widowed,25834.35,7.862221,11,2,2,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Yes,Electronic Check,49.65691,207.6094,4652.060129,4,5,4,4,5,2,3,3,No
-6781,0,Suburban,57,Male,0,Married,32436.4,11.34598,12,3,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Electronic Check,67.5234,217.484,6073.6103,5,5,4,4,4,4,3,4,No
+6781,9993,Suburban,57,Male,0,Married,32436.4,11.34598,12,3,0,No,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Electronic Check,67.5234,217.484,6073.6103,5,5,4,4,4,4,3,4,No
 6782,1273,Urban,49,Female,1,Never Married,29695.74,8.697285,9,0,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,No,No,No,No,No,Bank Transfer(automatic),51.6849,94.97283,4753.29229,1,3,2,4,2,3,3,3,No
 6783,20543,Urban,29,Male,4,Married,48257.2,13.29045,12,2,0,No,Month-to-month,Yes,No,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),49.27633,255.1372,4912.958462,2,3,3,4,3,3,3,3,No
 6784,846,Urban,38,Female,0,Divorced,20219.9,11.86714,9,1,0,No,Two Year,No,No,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Electronic Check,53.33926,235.1372,5459.660641,4,4,4,4,3,2,2,3,No
@@ -6810,7 +6810,7 @@
 6808,2119,Rural,84,Male,0,Divorced,40257.72,9.873164,14,2,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Credit Card (automatic),55.09689,227.4754,4896.004846,2,1,1,3,4,3,2,3,No
 6809,4384,Suburban,69,Male,0,Widowed,50988.01,9.355409,11,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,No,No,Credit Card (automatic),71.4249,149.9778,6041.492692,4,5,4,5,3,5,4,6,No
 6810,131,Urban,26,Female,1,Separated,44022.7,13.20324,13,0,1,No,Month-to-month,Yes,Yes,None,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Bank Transfer(automatic),55.01782,159.9642,4974.850117,3,3,3,5,3,3,3,5,No
-6811,0,Suburban,36,Female,1,Separated,18223.67,10.63959,20,0,0,No,One year,No,No,None,Yes,No,No,No,Yes,Yes,No,No,No,Bank Transfer(automatic),52.97231,105.011,4502.173823,4,4,4,4,4,4,4,3,No
+6811,9993,Suburban,36,Female,1,Separated,18223.67,10.63959,20,0,0,No,One year,No,No,None,Yes,No,No,No,Yes,Yes,No,No,No,Bank Transfer(automatic),52.97231,105.011,4502.173823,4,4,4,4,4,4,4,3,No
 6812,31498,Suburban,38,Male,1,Married,85351.21,6.772134,8,1,2,No,Month-to-month,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Electronic Check,64.88617,174.9699,6221.262758,5,5,5,3,3,4,4,5,No
 6813,1489,Rural,44,Female,1,Married,49227.4,14.95119,8,2,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Electronic Check,50.80026,197.4876,4626.844847,5,4,6,2,4,4,4,3,No
 6814,17639,Urban,30,Female,5,Never Married,35375.83,11.9465,11,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,Yes,Electronic Check,64.42046,147.4564,6072.987281,5,5,4,3,5,3,4,4,No
@@ -7111,7 +7111,7 @@
 7109,1106,Rural,26,Female,4,Never Married,38151.92,8.426701,14,0,1,No,Month-to-month,No,No,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Credit Card (automatic),59.33894,197.484,5958.978015,4,4,3,4,4,4,4,5,No
 7110,39698,Suburban,65,Female,6,Divorced,22606.89,8.284685,13,2,1,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Yes,Mailed Check,63.411,157.4836,5483.967712,4,4,2,2,4,2,5,4,No
 7111,2510,Suburban,87,Male,0,Divorced,48847.09,17.14416,8,0,3,No,One year,No,No,DSL,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Mailed Check,47.87116,140.0013,4524.812836,3,3,1,3,5,4,4,2,No
-7112,0,Suburban,36,Male,0,Never Married,26313.52,8.864157,16,1,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Bank Transfer(automatic),71.83307,140.0342,6246.238872,4,3,4,5,3,4,4,3,No
+7112,9993,Suburban,36,Male,0,Never Married,26313.52,8.864157,16,1,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Bank Transfer(automatic),71.83307,140.0342,6246.238872,4,3,4,5,3,4,4,3,No
 7113,28877,Rural,33,Male,10,Widowed,6421.76,4.299047,10,1,0,No,One year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Electronic Check,65.01825,162.4827,6088.936104,3,2,3,2,5,3,1,3,No
 7114,336,Suburban,60,Nonbinary,5,Married,52976.87,9.998484,10,1,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Electronic Check,70.41132,240.1149,6376.238465,5,5,4,3,4,4,2,3,No
 7115,6257,Suburban,77,Male,3,Never Married,34584.19,11.07398,11,1,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Bank Transfer(automatic),53.81882,217.4702,4896.644429,5,3,4,4,2,3,5,3,No
@@ -7267,7 +7267,7 @@
 7265,1331,Urban,19,Male,2,Married,35807.67,10.58797,16,0,0,No,Month-to-month,Yes,Yes,None,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Bank Transfer(automatic),59.3991,210.1518,5709.290774,3,2,1,2,3,2,1,3,No
 7266,1103,Suburban,59,Female,0,Married,8897.04,14.39939,10,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,No,Electronic Check,57.41425,202.4433,4996.095261,3,2,3,6,2,4,4,3,No
 7267,757,Urban,32,Male,3,Married,39925.59,8.820492,13,0,0,Yes,Month-to-month,No,No,None,Yes,No,No,No,No,Yes,No,No,No,Credit Card (automatic),68.72245,92.48802,5864.530305,4,4,4,2,3,4,6,4,No
-7268,0,Rural,35,Male,10,Divorced,73170.66,4.647872,13,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,No,Yes,Credit Card (automatic),48.48324,114.9728,4482.710196,3,2,5,3,3,5,4,3,No
+7268,9732,Rural,35,Male,10,Divorced,73170.66,4.647872,13,0,0,No,Two Year,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,No,Yes,Credit Card (automatic),48.48324,114.9728,4482.710196,3,2,5,3,3,5,4,3,No
 7269,389,Suburban,85,Male,3,Married,28175.21,12.13223,13,1,0,Yes,Month-to-month,Yes,Yes,None,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Mailed Check,70.54943,162.4982,6147.295218,3,3,4,3,4,3,4,3,No
 7270,518,Suburban,59,Female,10,Never Married,89172.4,8.573533,12,1,0,No,Two Year,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No,No,No,Bank Transfer(automatic),57.6549,149.9741,5652.677937,3,3,3,5,5,2,4,3,No
 7271,5979,Urban,55,Male,1,Separated,3024.35,11.60999,15,3,2,No,Month-to-month,No,No,None,Yes,Yes,No,Yes,No,No,No,Yes,No,Mailed Check,63.21638,169.9671,5597.695081,3,3,3,5,2,3,4,3,No
@@ -7598,7 +7598,7 @@
 7596,2328,Urban,32,Female,2,Widowed,84314.93,9.51866,11,1,1,No,Two Year,No,Yes,DSL,Yes,No,No,Yes,No,No,Yes,Yes,No,Bank Transfer(automatic),71.67026,210.1051,6953.434775,3,3,2,1,5,4,3,4,No
 7597,130,Urban,29,Female,1,Separated,40364.46,9.444273,14,1,0,Yes,Two Year,Yes,No,Fiber Optic,Yes,No,No,Yes,Yes,No,Yes,No,No,Credit Card (automatic),62.47012,172.4579,5588.834646,4,3,3,5,4,5,4,4,No
 7598,1370,Urban,52,Male,0,Widowed,69425.74,8.718368,17,2,1,No,Two Year,No,No,None,Yes,No,Yes,Yes,Yes,No,No,No,No,Mailed Check,71.36862,117.5152,6173.441338,4,4,4,2,5,3,3,3,No
-7599,0,Suburban,80,Female,0,Never Married,96190.74,9.625936,10,2,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Yes,Yes,Electronic Check,63.35604,187.6094,5959.251896,3,3,5,3,5,4,3,4,No
+7599,9993,Suburban,80,Female,0,Never Married,96190.74,9.625936,10,2,0,No,Month-to-month,Yes,No,DSL,Yes,No,No,No,No,No,Yes,Yes,Yes,Electronic Check,63.35604,187.6094,5959.251896,3,3,5,3,5,4,3,4,No
 7600,3263,Urban,50,Female,4,Widowed,107720.5,10.59942,13,1,0,No,One year,No,Yes,DSL,Yes,No,No,No,No,No,No,No,No,Electronic Check,58.43075,92.45514,5319.904812,3,3,3,2,5,4,4,2,No
 7601,16382,Suburban,85,Male,3,Married,77478.63,14.69711,16,1,1,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Electronic Check,50.09435,194.9581,4561.818178,4,4,5,4,4,3,2,4,No
 7602,69,Rural,25,Female,0,Separated,73082.67,13.14633,11,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,Yes,No,No,No,Yes,No,Bank Transfer(automatic),59.05181,182.4433,5655.241249,5,6,4,1,4,5,5,6,No
@@ -7668,7 +7668,7 @@
 7666,4566,Rural,51,Male,8,Separated,27251.15,11.0309,10,2,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Credit Card (automatic),58.172,174.9618,5421.452894,5,5,5,2,4,3,3,3,No
 7667,1029,Rural,89,Male,0,Married,35072.27,16.30827,11,1,0,Yes,Two Year,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Electronic Check,68.3119,197.484,6446.795599,1,3,3,5,2,4,2,5,No
 7668,400,Rural,75,Female,4,Never Married,41697.74,7.72012,12,2,1,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Yes,Mailed Check,71.25643,179.9476,6106.984548,2,2,2,3,4,3,5,3,No
-7669,0,Rural,44,Male,2,Separated,6551.34,10.89868,11,0,0,Yes,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Electronic Check,57.89761,182.4538,5139.969727,5,4,5,5,3,5,6,5,No
+7669,9732,Rural,44,Male,2,Separated,6551.34,10.89868,11,0,0,Yes,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Electronic Check,57.89761,182.4538,5139.969727,5,4,5,5,3,5,6,5,No
 7670,16249,Suburban,40,Female,4,Divorced,32935.41,13.54555,11,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Bank Transfer(automatic),60.89154,210.127,5673.309041,2,3,2,4,3,3,2,3,No
 7671,36423,Rural,26,Female,1,Divorced,48000.45,4.031118,11,2,0,No,Two Year,No,No,DSL,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Credit Card (automatic),48.3857,149.9741,4724.312922,3,3,3,4,3,4,5,3,No
 7672,6359,Suburban,54,Male,1,Separated,43154.85,1.283458,14,0,0,No,One year,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Bank Transfer(automatic),71.95713,222.6362,6493.121834,2,3,3,4,5,3,3,2,No
@@ -8101,7 +8101,7 @@
 8099,4646,Rural,51,Male,2,Separated,34919.71,12.52796,10,0,0,Yes,Two Year,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Electronic Check,39.70805,187.4811,4290.116592,1,2,3,4,3,3,3,3,No
 8100,26863,Rural,72,Male,1,Married,19056.07,8.898543,10,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Electronic Check,66.33852,204.9634,5883.826226,3,4,3,2,5,3,4,3,No
 8101,370,Suburban,84,Female,3,Never Married,16602.2,11.43794,10,1,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Electronic Check,58.2471,247.6647,5856.498648,4,5,4,2,5,2,2,3,No
-8102,0,Rural,44,Male,1,Divorced,22549.82,10.97136,19,1,1,Yes,One year,Yes,No,DSL,Yes,No,No,No,No,No,Yes,No,No,Mailed Check,68.4249,117.4392,6308.988621,3,4,4,2,5,2,4,3,No
+8102,9732,Rural,44,Male,1,Divorced,22549.82,10.97136,19,1,1,Yes,One year,Yes,No,DSL,Yes,No,No,No,No,No,Yes,No,No,Mailed Check,68.4249,117.4392,6308.988621,3,4,4,2,5,2,4,3,No
 8103,19361,Rural,40,Female,3,Divorced,17078.58,8.935074,10,1,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,No,No,Yes,No,Yes,No,No,Electronic Check,61.16472,129.9621,5826.881326,2,2,3,3,4,2,1,4,No
 8104,31859,Suburban,68,Male,0,Widowed,59261.2,9.279998,10,1,0,No,Two Year,No,No,DSL,Yes,Yes,No,No,No,No,No,Yes,No,Bank Transfer(automatic),59.9106,159.9476,5572.923222,3,3,4,5,3,4,4,4,No
 8105,7234,Rural,35,Male,0,Never Married,3938.24,1.896422,12,1,0,No,Month-to-month,Yes,No,None,No,No,No,No,No,Yes,Yes,No,Yes,Credit Card (automatic),55.24136,117.472,4818.30969,4,3,4,2,6,2,3,1,No
@@ -8128,7 +8128,7 @@
 8126,487,Urban,41,Female,2,Widowed,58162.66,14.78396,15,1,0,No,Month-to-month,No,Yes,None,No,No,No,No,No,Yes,Yes,Yes,Yes,Electronic Check,61.60969,187.6422,5596.424346,3,2,3,3,3,4,2,5,No
 8127,4839,Suburban,52,Female,1,Married,28613.3,11.51231,20,1,1,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Bank Transfer(automatic),55.39854,242.6143,5114.637099,4,3,3,5,1,3,5,4,No
 8128,133,Rural,65,Male,1,Separated,42953.62,15.44335,12,3,0,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,No,No,No,No,Yes,Yes,No,Mailed Check,71.77654,240.1149,6434.683847,3,2,2,4,4,2,2,3,No
-8129,0,Suburban,24,Female,1,Divorced,85647.87,10.33234,11,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Credit Card (automatic),71.88568,149.9621,6282.728539,3,2,3,3,5,2,3,3,No
+8129,9993,Suburban,24,Female,1,Divorced,85647.87,10.33234,11,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Credit Card (automatic),71.88568,149.9621,6282.728539,3,2,3,3,5,2,3,3,No
 8130,96436,Urban,52,Female,4,Divorced,58120.56,10.53777,6,1,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Mailed Check,71.44783,172.5104,6203.067904,2,3,2,4,4,3,4,3,No
 8131,3709,Rural,81,Male,6,Never Married,24835.35,8.191163,10,0,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Bank Transfer(automatic),67.99043,207.4811,6218.7988,3,3,3,4,3,3,5,4,No
 8132,19735,Rural,79,Female,4,Widowed,113254.1,11.00449,19,2,0,No,One year,No,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Credit Card (automatic),63.25754,149.9621,5487.786212,2,3,2,4,4,2,4,4,No
@@ -8137,7 +8137,7 @@
 8135,12683,Rural,25,Male,7,Married,61257.0,10.85703,13,1,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,No,No,No,Bank Transfer(automatic),71.12548,159.983,6386.654255,2,2,2,4,2,3,3,2,No
 8136,1267,Suburban,31,Female,2,Separated,44622.42,8.627751,15,1,1,No,One year,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,No,No,Credit Card (automatic),63.48369,152.4798,5677.324438,3,2,5,5,4,5,6,3,No
 8137,2564,Urban,43,Female,1,Married,65548.03,10.05475,15,2,0,No,Month-to-month,No,No,DSL,No,No,No,No,No,Yes,Yes,No,No,Electronic Check,65.13371,129.9483,5999.863942,3,5,5,5,4,4,4,5,No
-8138,0,Urban,30,Male,0,Separated,117867.2,12.96924,16,0,1,No,One year,No,Yes,None,Yes,Yes,No,No,No,No,Yes,No,No,Bank Transfer(automatic),71.48941,137.4684,6233.66124,3,3,3,2,4,3,2,3,No
+8138,9542,Urban,30,Male,0,Separated,117867.2,12.96924,16,0,1,No,One year,No,Yes,None,Yes,Yes,No,No,No,No,Yes,No,No,Bank Transfer(automatic),71.48941,137.4684,6233.66124,3,3,3,2,4,3,2,3,No
 8139,111850,Suburban,36,Female,5,Divorced,23994.35,11.73898,12,1,0,No,One year,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Bank Transfer(automatic),44.03142,242.6106,4839.958124,4,4,4,5,2,4,4,4,No
 8140,98,Suburban,39,Female,1,Separated,23441.22,9.44465,12,0,0,No,One year,No,No,DSL,Yes,No,No,No,No,Yes,Yes,Yes,No,Electronic Check,60.77973,200.1185,5917.686828,3,3,3,5,4,3,4,2,No
 8141,988,Urban,32,Female,7,Separated,61649.66,11.75848,10,1,0,No,One year,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,No,Bank Transfer(automatic),60.06981,152.4555,5934.44869,4,4,3,2,3,5,4,4,No
@@ -8232,7 +8232,7 @@
 8230,135,Rural,71,Female,2,Married,69232.25,3.624683,10,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Mailed Check,61.28236,220.1185,5471.244549,2,3,3,3,4,1,2,2,No
 8231,411,Suburban,49,Female,0,Divorced,71166.06,14.93768,10,2,1,No,Two Year,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Credit Card (automatic),51.87037,225.132,5293.295324,4,4,4,3,4,4,4,2,No
 8232,20952,Suburban,76,Female,3,Separated,19546.62,9.545938,15,2,0,No,One year,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,No,Electronic Check,46.2718,169.9378,4047.773653,3,2,2,3,4,3,3,2,No
-8233,0,Rural,67,Female,2,Divorced,24367.72,11.56322,12,1,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,No,No,No,Yes,Yes,Mailed Check,51.22665,129.9598,4847.193795,3,3,2,3,4,2,2,3,No
+8233,9732,Rural,67,Female,2,Divorced,24367.72,11.56322,12,1,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,No,No,No,Yes,Yes,Mailed Check,51.22665,129.9598,4847.193795,3,3,2,3,4,2,2,3,No
 8234,5402,Suburban,56,Male,1,Widowed,43492.61,12.53408,16,1,1,No,One year,Yes,Yes,DSL,No,No,No,Yes,No,Yes,No,Yes,No,Electronic Check,58.85409,162.447,5582.846082,3,2,3,4,4,3,2,4,No
 8235,5058,Rural,51,Male,1,Never Married,111442.1,10.02345,11,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,No,Yes,No,Yes,No,Yes,Electronic Check,47.37824,149.9621,4233.171811,3,4,2,4,2,4,3,5,No
 8236,8075,Urban,72,Female,2,Married,53458.43,15.80514,15,0,0,No,One year,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Electronic Check,69.54041,225.132,6727.30047,1,1,1,4,3,2,2,4,No
@@ -8297,7 +8297,7 @@
 8295,949,Urban,26,Female,6,Widowed,31716.91,4.068396,16,0,1,No,Two Year,No,No,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Electronic Check,54.73234,174.9768,5514.354742,4,5,4,2,4,5,4,3,No
 8296,1261,Suburban,47,Female,3,Widowed,13978.55,8.952255,16,1,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,No,No,Yes,Electronic Check,67.83633,114.9728,5731.337685,4,3,4,3,4,4,3,3,No
 8297,30935,Urban,44,Male,2,Married,51669.46,11.7614,8,0,2,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),61.91553,192.4705,5549.111256,4,4,4,3,4,4,4,5,No
-8298,0,Suburban,55,Female,3,Married,23095.6,11.84008,8,4,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Credit Card (automatic),67.35636,137.4392,5786.391502,3,3,3,4,4,3,2,5,No
+8298,9993,Suburban,55,Female,3,Married,23095.6,11.84008,8,4,0,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Credit Card (automatic),67.35636,137.4392,5786.391502,3,3,3,4,4,3,2,5,No
 8299,86,Urban,19,Female,4,Widowed,12378.01,14.8515,9,1,1,No,Two Year,No,No,DSL,Yes,No,No,No,No,No,No,No,No,Electronic Check,57.527,92.45514,5347.491386,3,3,3,4,3,2,2,3,No
 8300,29154,Urban,19,Male,8,Never Married,70962.7,12.1247,16,0,1,Yes,One year,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card (automatic),61.75393,245.1283,6562.450391,3,3,3,4,4,4,4,3,No
 8301,960,Suburban,29,Female,1,Married,26661.36,8.58683,13,1,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,No,Electronic Check,71.92785,182.4608,6327.647329,1,1,3,3,4,3,2,5,No
@@ -8491,7 +8491,7 @@
 8489,738,Rural,53,Male,4,Widowed,35950.39,8.081922,12,1,0,No,One year,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,No,Electronic Check,59.60557,127.4421,5648.297688,4,5,4,2,5,4,2,3,No
 8490,2662,Rural,43,Female,10,Never Married,107341.5,2.106053,12,0,0,No,One year,Yes,No,Fiber Optic,Yes,No,Yes,No,Yes,No,Yes,No,No,Electronic Check,56.34451,152.4798,5299.289196,6,5,5,5,2,5,5,5,No
 8491,417,Urban,51,Female,3,Separated,10770.7,9.606947,6,0,3,No,One year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Bank Transfer(automatic),61.74695,182.4653,5450.903985,4,4,4,3,3,5,4,4,No
-8492,0,Urban,28,Male,3,Married,25747.86,11.9755,13,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),71.99418,192.4705,6458.177025,3,3,3,3,4,3,4,6,No
+8492,9542,Urban,28,Male,3,Married,25747.86,11.9755,13,0,0,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card (automatic),71.99418,192.4705,6458.177025,3,3,3,3,4,3,4,6,No
 8493,6543,Suburban,53,Male,2,Separated,4978.33,10.5758,9,1,0,No,Two Year,Yes,No,None,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Electronic Check,61.84543,190.1737,5779.47654,4,3,4,3,3,4,4,4,No
 8494,12695,Urban,84,Female,3,Divorced,30407.3,12.51342,17,0,0,No,Two Year,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,45.34674,184.9496,4471.648469,2,2,3,3,2,3,5,4,No
 8495,19419,Rural,75,Female,1,Separated,99132.61,9.073224,10,0,0,Yes,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,No,Credit Card (automatic),70.99524,202.4433,6087.218845,3,2,2,3,4,3,1,4,No
@@ -8523,7 +8523,7 @@
 8521,11022,Rural,54,Male,2,Widowed,10992.89,11.18575,14,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Electronic Check,64.86438,184.9797,6175.765224,4,4,5,2,4,3,2,4,Yes
 8522,1387,Suburban,50,Male,4,Widowed,31421.54,10.19811,12,0,0,No,Two Year,No,No,DSL,No,No,Yes,Yes,No,Yes,No,Yes,No,Mailed Check,65.2372,164.9647,6293.093113,3,2,3,2,3,4,4,3,No
 8523,29105,Urban,37,Male,8,Married,76587.52,14.20099,15,0,1,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Yes,Credit Card (automatic),48.70941,207.6094,4779.956484,5,4,5,4,2,5,5,4,Yes
-8524,0,Suburban,49,Male,2,Married,47836.42,8.873568,18,0,0,No,Month-to-month,Yes,No,None,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Electronic Check,55.49261,230.1344,5277.646823,4,5,5,3,3,4,3,5,Yes
+8524,9993,Suburban,49,Male,2,Married,47836.42,8.873568,18,0,0,No,Month-to-month,Yes,No,None,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Electronic Check,55.49261,230.1344,5277.646823,4,5,5,3,3,4,3,5,Yes
 8525,24286,Rural,37,Male,1,Widowed,112961.8,9.570437,17,0,1,No,Month-to-month,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Mailed Check,62.59584,184.9785,5694.262968,5,4,5,4,3,4,5,3,No
 8526,732,Urban,20,Male,1,Never Married,112839.8,14.05877,13,3,0,No,Month-to-month,No,No,Fiber Optic,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Electronic Check,68.79248,182.447,6101.712749,4,3,4,3,4,4,3,4,No
 8527,162,Suburban,24,Male,2,Widowed,24879.0,8.232258,11,1,0,No,Month-to-month,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Bank Transfer(automatic),56.0677,245.147,5815.707647,2,1,2,3,4,2,2,3,No
@@ -8550,7 +8550,7 @@
 8548,6956,Rural,53,Male,2,Never Married,28702.52,10.3045,10,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Electronic Check,67.39326,174.9768,6387.155472,3,3,4,4,4,3,3,2,No
 8549,4366,Rural,44,Female,6,Widowed,4954.67,7.581553,13,1,2,Yes,Month-to-month,No,No,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Electronic Check,65.38821,219.9902,6084.157683,5,5,6,3,3,3,4,2,No
 8550,4164,Suburban,77,Female,0,Widowed,20312.0,8.286499,5,0,0,No,Month-to-month,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Electronic Check,52.69236,112.4551,4224.557626,2,2,3,4,2,3,4,2,No
-8551,0,Suburban,43,Male,9,Separated,26492.19,9.643831,8,4,0,Yes,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,No,No,Bank Transfer(automatic),68.02064,147.4564,6530.78052,4,3,4,4,3,3,3,5,No
+8551,9993,Suburban,43,Male,9,Separated,26492.19,9.643831,8,4,0,Yes,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,No,No,Bank Transfer(automatic),68.02064,147.4564,6530.78052,4,3,4,4,3,3,3,5,No
 8552,21066,Suburban,82,Male,3,Married,47909.78,9.60347,11,1,0,No,Two Year,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,No,Yes,Mailed Check,44.68507,124.9607,4212.149496,4,5,3,3,3,3,5,3,No
 8553,3613,Urban,41,Male,0,Married,23995.11,15.17134,11,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Electronic Check,64.5943,235.1555,6467.932969,3,4,4,3,3,2,4,5,Yes
 8554,53111,Suburban,64,Female,2,Divorced,97871.03,5.089983,15,1,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,No,No,No,No,Yes,Bank Transfer(automatic),62.84343,94.97283,5649.203405,6,6,5,5,2,6,3,5,No
@@ -8845,7 +8845,7 @@
 8843,845,Rural,77,Female,6,Divorced,34343.05,14.22857,7,0,1,Yes,One year,Yes,No,None,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit Card (automatic),69.5048,165.0113,6205.183353,3,3,3,4,4,5,4,3,No
 8844,3989,Rural,86,Male,0,Widowed,19606.42,12.77384,15,0,0,No,Two Year,No,Yes,None,Yes,No,No,Yes,No,No,Yes,Yes,No,Credit Card (automatic),62.89177,197.6288,5629.088178,4,4,3,5,2,5,4,4,No
 8845,204,Rural,63,Male,1,Married,6025.06,12.99584,10,3,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Bank Transfer(automatic),53.60305,217.4702,4863.296508,2,3,2,4,3,2,3,2,No
-8846,0,Urban,69,Male,1,Widowed,30256.32,9.487316,9,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,Yes,No,No,Yes,Mailed Check,54.37409,147.4601,4599.967755,3,3,4,4,2,4,4,4,No
+8846,9542,Urban,69,Male,1,Widowed,30256.32,9.487316,9,1,0,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,Yes,No,No,Yes,Mailed Check,54.37409,147.4601,4599.967755,3,3,4,4,2,4,4,4,No
 8847,162,Suburban,67,Female,2,Married,24326.72,5.585927,15,1,0,No,One year,Yes,No,Fiber Optic,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Bank Transfer(automatic),52.71022,262.6106,4943.594438,2,3,4,4,3,3,5,3,No
 8848,4409,Urban,21,Female,0,Separated,12654.73,7.979052,6,0,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Bank Transfer(automatic),64.56029,222.6654,5989.347785,3,4,3,4,3,4,2,4,No
 8849,37377,Suburban,48,Female,2,Never Married,72425.99,10.5195,11,0,2,No,Month-to-month,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Electronic Check,51.9647,154.9755,5185.231247,5,4,2,5,4,4,5,5,No
@@ -8930,7 +8930,7 @@
 8928,15415,Suburban,61,Male,0,Never Married,73700.77,15.02435,15,1,1,No,Month-to-month,Yes,No,None,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Credit Card (automatic),71.58757,190.1737,6489.928767,4,3,5,4,2,4,4,4,No
 8929,21130,Urban,48,Female,1,Separated,52772.29,7.669681,5,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Bank Transfer(automatic),42.47353,242.6106,4549.826317,4,4,5,4,3,5,3,2,Yes
 8930,1444,Suburban,86,Male,1,Widowed,57801.81,10.39446,12,1,0,No,Two Year,Yes,No,None,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Credit Card (automatic),57.68543,232.6707,5300.70659,3,3,3,4,3,3,4,4,No
-8931,0,Urban,82,Female,3,Married,23942.2,6.48996,17,0,0,No,One year,Yes,No,None,Yes,No,No,Yes,No,No,No,No,Yes,Bank Transfer(automatic),66.77433,102.4746,5548.354455,5,5,6,4,3,4,6,4,No
+8931,9542,Urban,82,Female,3,Married,23942.2,6.48996,17,0,0,No,One year,Yes,No,None,Yes,No,No,Yes,No,No,No,No,Yes,Bank Transfer(automatic),66.77433,102.4746,5548.354455,5,5,6,4,3,4,6,4,No
 8932,10389,Suburban,42,Male,2,Never Married,23101.59,3.081914,10,1,0,No,Two Year,No,No,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card (automatic),63.6336,255.1372,5985.170527,5,4,4,4,3,5,4,5,No
 8933,32204,Urban,53,Female,0,Married,15397.08,9.942912,11,1,0,No,Month-to-month,No,Yes,None,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Electronic Check,55.9975,119.9897,4849.400123,2,3,3,4,3,3,2,4,No
 8934,7633,Urban,35,Female,2,Widowed,63016.28,10.76049,14,3,0,Yes,Two Year,No,No,None,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Electronic Check,56.841,200.1465,5390.230602,4,3,4,2,5,3,4,2,No
@@ -9038,7 +9038,7 @@
 9036,30211,Rural,53,Female,4,Separated,11738.87,13.82399,8,1,0,No,One year,Yes,No,DSL,No,No,No,No,No,No,Yes,Yes,Yes,Electronic Check,68.22677,187.6094,6570.010431,4,4,4,2,3,3,5,4,No
 9037,14645,Suburban,67,Male,0,Divorced,27422.23,10.46708,9,1,0,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,Yes,No,No,No,No,No,No,Electronic Check,38.14529,147.4783,3294.82859,4,3,3,2,3,4,4,4,No
 9038,2405,Rural,67,Male,1,Never Married,31959.4,11.8759,15,2,1,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,No,Credit Card (automatic),63.03296,179.9476,5449.331954,2,3,3,5,2,4,4,3,No
-9039,0,Rural,26,Female,10,Divorced,11659.0,11.6119,11,3,0,Yes,Month-to-month,No,No,DSL,Yes,No,No,No,No,Yes,No,No,No,Bank Transfer(automatic),56.56173,104.9643,5434.480078,3,3,3,3,4,2,3,2,No
+9039,9732,Rural,26,Female,10,Divorced,11659.0,11.6119,11,3,0,Yes,Month-to-month,No,No,DSL,Yes,No,No,No,No,Yes,No,No,No,Bank Transfer(automatic),56.56173,104.9643,5434.480078,3,3,3,3,4,2,3,2,No
 9040,17516,Rural,80,Female,2,Widowed,67034.95,8.593063,12,1,1,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Credit Card (automatic),70.39578,277.6375,6429.615341,4,5,5,2,4,2,3,4,No
 9041,16819,Suburban,58,Female,3,Widowed,16271.47,8.690721,12,0,2,No,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,Yes,Electronic Check,68.75872,112.4551,5695.648337,3,4,4,3,4,3,3,3,No
 9042,5582,Urban,29,Male,3,Married,95064.28,9.867609,16,1,1,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Bank Transfer(automatic),70.49752,257.6375,7096.494932,3,3,4,3,4,3,4,4,Yes
@@ -9172,7 +9172,7 @@
 9170,553,Suburban,39,Female,0,Widowed,69555.01,3.093001,11,0,0,Yes,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,No,No,No,No,No,Yes,Electronic Check,67.20074,127.4783,6098.579126,4,3,4,3,4,2,3,5,No
 9171,9230,Urban,32,Female,1,Never Married,39798.55,8.226943,12,1,0,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Bank Transfer(automatic),63.85056,184.9785,5731.179041,5,5,4,4,5,5,5,3,No
 9172,290,Rural,56,Male,4,Married,11345.68,9.360835,13,5,0,No,Month-to-month,No,No,DSL,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Electronic Check,66.27924,162.4538,6262.462856,6,6,5,4,3,5,3,5,No
-9173,0,Urban,59,Female,0,Separated,19224.86,13.26643,10,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,No,No,Mailed Check,64.72745,94.97283,5758.399584,4,4,5,3,4,3,3,3,No
+9173,9542,Urban,59,Female,0,Separated,19224.86,13.26643,10,0,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,No,No,Mailed Check,64.72745,94.97283,5758.399584,4,4,5,3,4,3,3,3,No
 9174,59637,Rural,80,Female,1,Widowed,14174.86,10.61778,12,1,0,No,Two Year,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Electronic Check,63.71215,164.9647,5895.135365,1,2,3,4,5,3,3,4,No
 9175,12374,Urban,68,Female,3,Separated,72757.38,12.09291,18,2,3,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Electronic Check,62.77605,242.6143,5728.24521,4,5,6,4,4,5,4,3,No
 9176,41600,Urban,48,Male,1,Widowed,25866.34,9.993283,12,0,1,No,Month-to-month,No,No,Fiber Optic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Credit Card (automatic),67.35833,275.1336,6307.538056,4,3,3,3,4,3,3,3,No
@@ -9207,7 +9207,7 @@
 9205,65335,Urban,80,Female,3,Separated,22720.66,16.40248,16,2,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Electronic Check,59.22188,182.4833,5087.557363,4,4,2,4,3,4,2,4,No
 9206,2115,Rural,24,Male,4,Never Married,87926.43,4.224255,11,0,0,No,Two Year,No,Yes,None,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Bank Transfer(automatic),56.96287,172.4733,5284.511287,4,4,6,3,3,5,5,4,No
 9207,4625,Rural,53,Male,1,Married,90748.01,12.60495,13,1,0,No,Two Year,No,No,DSL,Yes,No,No,No,Yes,No,Yes,No,Yes,Mailed Check,53.01595,129.9621,5102.051113,3,4,3,4,3,4,4,4,No
-9208,0,Rural,88,Male,3,Widowed,41902.08,13.05523,16,1,0,No,Month-to-month,No,No,None,Yes,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),57.80772,114.9838,4880.587184,4,4,3,2,5,4,4,4,No
+9208,9732,Rural,88,Male,3,Widowed,41902.08,13.05523,16,1,0,No,Month-to-month,No,No,None,Yes,No,No,Yes,No,Yes,No,No,Yes,Credit Card (automatic),57.80772,114.9838,4880.587184,4,4,3,2,5,4,4,4,No
 9209,198,Suburban,52,Female,0,Never Married,71957.41,9.515041,9,1,0,No,One year,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Mailed Check,64.17032,162.4526,5612.009142,2,1,1,5,3,1,2,2,No
 9210,46418,Urban,75,Female,3,Separated,32340.98,9.804896,18,0,1,No,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,Yes,No,No,No,No,Yes,Bank Transfer(automatic),57.31788,134.9509,4796.464221,2,2,2,3,3,3,2,2,No
 9211,8199,Urban,37,Female,1,Widowed,11793.4,13.45927,9,0,0,Yes,Month-to-month,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Mailed Check,54.67414,164.9853,5390.477473,2,3,3,3,5,3,2,2,No
@@ -9215,7 +9215,7 @@
 9213,41743,Rural,60,Female,0,Married,18612.45,9.096632,11,0,0,No,One year,Yes,Yes,None,Yes,No,No,No,Yes,Yes,No,No,Yes,Credit Card (automatic),51.8548,105.011,4301.135534,3,3,3,3,2,4,3,2,No
 9214,3209,Urban,81,Female,3,Married,61042.75,12.95862,8,0,1,Yes,Month-to-month,No,No,DSL,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,61.19516,159.9476,5645.623244,3,3,3,3,3,2,3,4,No
 9215,2532,Rural,78,Female,2,Married,33653.9,8.761838,9,0,0,No,One year,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,Yes,Yes,Mailed Check,66.94632,159.9512,5614.790593,5,5,4,4,3,6,4,4,No
-9216,0,Suburban,63,Female,1,Separated,85694.68,11.90177,8,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Electronic Check,53.27554,162.497,5088.812303,4,4,2,5,4,3,4,3,No
+9216,9993,Suburban,63,Female,1,Separated,85694.68,11.90177,8,0,0,No,Month-to-month,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Electronic Check,53.27554,162.497,5088.812303,4,4,2,5,4,3,4,3,No
 9217,5491,Rural,74,Male,1,Divorced,30439.25,10.41218,13,2,1,No,One year,No,No,DSL,Yes,No,No,No,Yes,No,Yes,No,No,Electronic Check,59.01705,129.9621,5524.916473,2,2,3,2,4,3,3,1,No
 9218,2060,Rural,52,Male,2,Widowed,5663.69,12.75335,10,2,0,Yes,Two Year,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Electronic Check,71.59806,207.4811,6486.342263,2,3,2,3,2,4,3,4,No
 9219,5920,Rural,26,Female,0,Divorced,30136.17,11.52287,13,2,0,No,Two Year,No,No,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Yes,Electronic Check,54.8395,179.9476,4799.331248,2,2,3,4,2,3,3,4,No
@@ -9440,7 +9440,7 @@
 9438,14989,Urban,30,Male,2,Married,13422.08,12.23027,20,1,0,No,Month-to-month,Yes,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Yes,Mailed Check,54.64972,149.9378,5350.055146,4,4,4,3,4,4,3,5,No
 9439,27897,Suburban,21,Female,1,Separated,17612.86,8.450991,17,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Bank Transfer(automatic),57.27183,194.9663,5638.438682,3,3,4,2,4,3,3,3,No
 9440,1782,Urban,49,Male,0,Widowed,73198.38,11.98358,13,0,1,No,Month-to-month,Yes,No,Fiber Optic,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card (automatic),42.47836,265.1283,4224.921196,5,5,4,2,5,5,5,4,Yes
-9441,0,Suburban,60,Female,1,Widowed,25429.84,11.73306,14,0,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Credit Card (automatic),60.47912,162.5119,5341.089808,4,4,3,4,2,4,3,4,No
+9441,9993,Suburban,60,Female,1,Widowed,25429.84,11.73306,14,0,0,No,Month-to-month,No,No,None,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Credit Card (automatic),60.47912,162.5119,5341.089808,4,4,3,4,2,4,3,4,No
 9442,423,Rural,32,Male,1,Divorced,42197.7,11.25886,17,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Electronic Check,39.27473,175.0062,4129.863047,4,5,4,2,4,4,4,2,No
 9443,759,Urban,84,Female,2,Divorced,58578.06,7.750919,10,1,0,No,One year,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Mailed Check,52.78874,207.6094,4728.350252,3,3,3,4,4,5,5,4,No
 9444,921,Suburban,35,Male,2,Separated,115029.8,10.15194,8,0,1,No,Month-to-month,No,No,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Electronic Check,36.05704,235.1591,3729.770527,3,4,3,4,3,3,3,4,Yes
@@ -9656,7 +9656,7 @@
 9654,12895,Urban,23,Male,1,Never Married,70968.23,3.504693,14,0,1,No,Month-to-month,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Electronic Check,66.969,184.9496,6428.811386,4,4,5,4,2,4,2,2,No
 9655,2916,Rural,85,Male,0,Divorced,45028.35,9.122923,16,1,0,No,Two Year,Yes,No,DSL,No,Yes,No,No,No,No,No,Yes,Yes,Credit Card (automatic),42.2544,159.9476,4070.475421,3,3,3,3,3,5,3,4,No
 9656,232,Suburban,76,Female,2,Divorced,136818.5,16.30443,6,0,0,No,Month-to-month,No,No,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Electronic Check,69.34207,202.6362,6603.944194,3,4,4,2,3,4,4,4,No
-9657,0,Rural,35,Female,0,Divorced,71970.6,8.50051,15,3,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Credit Card (automatic),63.48022,197.4702,6064.83626,4,5,4,3,4,4,3,2,No
+9657,9732,Rural,35,Female,0,Divorced,71970.6,8.50051,15,3,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Credit Card (automatic),63.48022,197.4702,6064.83626,4,5,4,3,4,4,3,2,No
 9658,810,Urban,75,Male,1,Never Married,29603.81,12.73152,12,0,0,No,One year,Yes,No,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,No,Electronic Check,58.20314,207.6094,5217.771684,4,3,3,4,3,4,4,4,No
 9659,147,Rural,52,Female,7,Never Married,76026.12,14.09466,15,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,Yes,No,No,No,Yes,No,Yes,Mailed Check,70.89101,139.9568,6284.19049,2,3,3,4,4,3,4,2,No
 9660,17107,Urban,57,Female,1,Never Married,81318.66,9.7339,17,0,0,No,Two Year,Yes,No,None,No,Yes,No,Yes,No,No,Yes,No,No,Mailed Check,64.17582,159.9642,5623.598666,5,5,5,4,5,4,4,3,No
@@ -9701,7 +9701,7 @@
 9699,1112,Suburban,28,Female,0,Married,16096.75,8.952419,10,1,0,Yes,Month-to-month,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,No,Yes,Credit Card (automatic),46.86027,137.4392,4103.155082,4,5,5,4,2,4,4,3,No
 9700,4154,Rural,88,Male,2,Never Married,45179.37,11.54779,12,1,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,No,Credit Card (automatic),49.16112,162.4713,4293.055528,3,3,4,5,3,4,4,5,No
 9701,263,Urban,68,Female,1,Never Married,33362.41,11.7914,17,0,0,Yes,Month-to-month,Yes,No,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Mailed Check,55.23911,162.4713,4778.807562,4,4,4,3,5,3,3,2,No
-9702,0,Suburban,34,Female,0,Divorced,36171.94,10.09554,13,0,0,No,Two Year,No,Yes,None,Yes,Yes,No,No,No,No,Yes,No,Yes,Electronic Check,68.32444,137.4684,5914.162068,3,3,2,5,2,3,3,4,No
+9702,9993,Suburban,34,Female,0,Divorced,36171.94,10.09554,13,0,0,No,Two Year,No,Yes,None,Yes,Yes,No,No,No,No,Yes,No,Yes,Electronic Check,68.32444,137.4684,5914.162068,3,3,2,5,2,3,3,4,No
 9703,501,Urban,85,Male,0,Separated,28348.26,5.543435,13,0,0,No,One year,No,No,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Mailed Check,67.94252,169.9928,5691.599692,3,4,3,4,3,4,2,3,No
 9704,893,Rural,33,Female,2,Married,26254.4,11.32274,8,2,0,No,One year,No,No,DSL,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Electronic Check,67.75508,140.0013,6310.388284,4,5,5,3,4,3,3,4,No
 9705,6139,Suburban,72,Female,3,Married,66188.42,11.4564,11,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Electronic Check,65.63324,232.624,6340.697833,5,4,4,5,2,4,4,5,No
@@ -9943,7 +9943,7 @@
 9941,535,Suburban,80,Male,1,Married,5821.59,14.6783,9,0,0,No,One year,No,No,None,Yes,No,No,No,No,Yes,No,No,No,Credit Card (automatic),71.67689,92.48802,5887.667168,2,3,3,3,5,2,1,2,No
 9942,13190,Rural,66,Male,2,Never Married,18974.4,13.51845,15,0,0,No,Month-to-month,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Electronic Check,70.26711,257.6513,7006.344444,4,4,4,4,3,5,3,2,No
 9943,1589,Suburban,39,Male,1,Married,29261.65,7.528743,13,3,1,No,Two Year,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit Card (automatic),71.4959,235.1372,7021.93656,5,4,5,4,3,4,4,4,No
-9944,0,Rural,85,Male,0,Widowed,46731.01,13.68878,9,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Mailed Check,59.85298,172.4742,5116.489299,3,4,4,4,5,3,3,2,No
+9944,9732,Rural,85,Male,0,Widowed,46731.01,13.68878,9,0,0,No,Two Year,Yes,No,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Mailed Check,59.85298,172.4742,5116.489299,3,4,4,4,5,3,3,2,No
 9945,231,Urban,89,Female,0,Married,30077.16,12.01569,14,3,1,No,Month-to-month,Yes,No,None,Yes,Yes,No,Yes,No,No,No,No,Yes,Bank Transfer(automatic),43.93121,134.9801,3633.284673,3,3,3,3,4,2,2,2,No
 9946,10274,Rural,22,Male,8,Never Married,22023.11,7.86736,13,1,0,Yes,Month-to-month,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Credit Card (automatic),70.14031,202.65,7158.98153,4,3,2,3,3,4,5,3,No
 9947,793,Urban,72,Female,6,Divorced,5540.32,10.74203,20,2,0,No,Two Year,No,No,None,Yes,No,Yes,No,No,No,No,No,Yes,Mailed Check,57.62812,82.49655,4905.287249,3,5,2,3,4,4,4,3,No
